@@ -1,0 +1,3392 @@
+{
+  "Internal Medicine & Adult Medical Specialties": {
+    "Cardiology": {
+      "General": [
+        "acute cardiac care",
+        "anticoagulation",
+        "anticoagulation management",
+        "cardiac",
+        "cardiac amyloidosis",
+        "cardiology",
+        "cardiopulmonary exercise testing",
+        "cardiotoxicity",
+        "cardiovascular epidemiology",
+        "cardiovascular pharmacology",
+        "cardiovascular therapeutics",
+        "hemostasis and thrombosis",
+        "ischemic heart disease",
+        "periprocedural anticoagulation management",
+        "pulmonary embolism",
+        "structural heart disease",
+        "thromboembolism",
+        "thrombosis and haemostasis",
+        "thrombosis/antithrombotic therapy",
+        "vascular medicine/thrombosis",
+        "venous thromboembolism"
+      ],
+      "Arrhythmia & Electrophysiology": [
+        "arrhythmia",
+        "cardiac electrophysiology",
+        "electrophysiology/arrhythmia",
+        "cardiac implantable electronic devices (pacemaker/ICD/CRT)",
+        "atrial fibrillation"
+      ],
+      "Acute Coronary & Ischemic": [
+        "acute coronary syndromes",
+        "cardiovascular emergencies",
+        "syncope",
+        "acute coronary syndrome"
+      ],
+      "Heart Failure & Cardiomyopathy": [
+        "heart failure",
+        "cardiac rehabilitation",
+        "heart failure and cardiomyopathy",
+        "cardiorenal-metabolic"
+      ],
+      "Preventive & Lifestyle": [
+        "preventive cardiology",
+        "cardio\u2011oncology",
+        "exercise prescription / health promotion",
+        "hypertension",
+        "obesity management",
+        "cardiovascular risk assessment",
+        "screening/preventive care"
+      ],
+      "Imaging & Diagnostics": [
+        "cardiac imaging",
+        "cardiac radiology",
+        "echocardiography",
+        "nuclear cardiology",
+        "valvular heart disease",
+        "electrocardiography",
+        "cardiac magnetic resonance (CMR)",
+        "cardiac MRI",
+        "magnetic resonance imaging (MRI)",
+        "coronary CT angiography (CTA)",
+        "coronary CT angiography (CCTA)",
+        "cardiovascular monitoring"
+      ],
+      "Other": [
+        "adult congenital heart disease",
+        "rare cardiovascular diseases"
+      ],
+      "Interventional & Vascular": [
+        "interventional cardiology",
+        "vascular medicine",
+        "phlebology",
+        "peripheral artery disease",
+        "vascular and endovascular surgery"
+      ],
+      "Onco-Cardiology": [
+        "cardio-oncology"
+      ],
+      "General / Preventive": [
+        "cardiovascular"
+      ],
+      "Congenital & General": [
+        "congenital heart disease"
+      ]
+    },
+    "Pulmonology / Respiratory": {
+      "Airways & Critical Care": [
+        "COPD",
+        "respiratory medicine",
+        "respiratory and critical care medicine",
+        "airway management",
+        "airway / tracheostomy care",
+        "pleural disease",
+        "pulmonology (COPD)",
+        "pulmonology (chest medicine)",
+        "respiratory failure",
+        "mechanical ventilation",
+        "respiratory infections",
+        "respiratory/pulmonary pharmacotherapy",
+        "respiratory care",
+        "respiratory rehabilitation",
+        "chronic obstructive pulmonary disease (COPD)",
+        "airway disorders",
+        "home oxygen therapy"
+      ],
+      "Sleep\u2011Related": [
+        "sleep disorders",
+        "sleep medicine",
+        "obstructive sleep apnea",
+        "insomnia",
+        "polysomnography",
+        "polysomnography interpretation",
+        "sleep health education",
+        "CBT-I"
+      ],
+      "Infectious & Environmental": [
+        "tuberculosis",
+        "COVID-19",
+        "pneumonia",
+        "pneumonia management",
+        "infectious diseases (COVID-19)",
+        "occupational lung disease"
+      ],
+      "General": [
+        "pulmonology"
+      ]
+    },
+    "Endocrinology & Metabolism": {
+      "General Endocrinology": [
+        "acromegaly",
+        "endocrine oncology",
+        "endocrinology",
+        "hyperparathyroidism",
+        "metabolic dysfunction-associated fatty liver disease (MAFLD)",
+        "metabolic surgery",
+        "metabolic syndrome",
+        "neuroendocrine neoplasms (NENs)",
+        "neuroendocrinology",
+        "pituitary disorders",
+        "reproductive endocrinology and infertility (REI)",
+        "thyroid",
+        "thyroid disease",
+        "thyroid disorders",
+        "thyroid ultrasound",
+        "thyroidology"
+      ],
+      "Diabetes": [
+        "diabetes",
+        "diabetology",
+        "diabetes education",
+        "diabetes technology",
+        "diabetes care",
+        "diabetes management",
+        "diabetes in pregnancy"
+      ],
+      "Obesity & Lifestyle": [
+        "obesity",
+        "obesity medicine",
+        "weight management",
+        "lifestyle medicine",
+        "obesity management",
+        "fitness coaching/weight management",
+        "exercise medicine"
+      ],
+      "Bone & Mineral": [
+        "osteoporosis",
+        "bone densitometry",
+        "lipidology",
+        "metabolic disorders",
+        "bone health",
+        "osteoporosis and fracture prevention",
+        "bone health / skeletal biology",
+        "metabolic bone disease"
+      ]
+    },
+    "Gastroenterology & Hepatology": {
+      "Luminal GI": [
+        "appendicitis",
+        "Barrett's esophagus",
+        "celiac disease",
+        "colonoscopy",
+        "colorectal cancer screening",
+        "colorectal cancer screening and surveillance",
+        "colorectal cancer screening/surveillance",
+        "functional gastroenterology",
+        "gastroenterology",
+        "gastroesophageal reflux disease",
+        "gastrointestinal",
+        "gastrointestinal infections",
+        "GERD",
+        "GERD (gastro\u2011oesophageal reflux disease)",
+        "HPV",
+        "inflammatory bowel disease",
+        "inflammatory bowel disease (IBD)",
+        "inflammatory bowel disease (ulcerative colitis)",
+        "irritable bowel syndrome",
+        "pediatric gastroenterology",
+        "upper gastrointestinal bleeding (UGIB)"
+      ],
+      "Hepato\u2011Pancreatico\u2011Biliary": [
+        "autoimmune hepatitis",
+        "autoimmune hepatitis (AIH)",
+        "autoimmune liver disease",
+        "bariatric surgery (medical aspects)",
+        "cirrhosis",
+        "hepatic oncology",
+        "hepatitis B",
+        "hepatitis C",
+        "hepato-oncology",
+        "hepatobiliary diseases",
+        "hepatocellular carcinoma",
+        "hepatology",
+        "hepatology (PBC)",
+        "hepatotoxicity",
+        "hepato\u2011pancreatico\u2011biliary",
+        "liver cancer",
+        "liver cancer (HCC)",
+        "liver pathology",
+        "liver transplant",
+        "MASLD",
+        "metabolic liver disease",
+        "metabolic liver disease (NAFLD/MASLD)",
+        "pancreatic cancer",
+        "pancreatic oncology",
+        "pancreatology",
+        "primary biliary cholangitis (PBC)",
+        "primary sclerosing cholangitis (PSC)",
+        "viral hepatitis"
+      ],
+      "GI Oncology": [
+        "gastrointestinal oncology",
+        "GI oncology",
+        "nutritional oncology",
+        "gastric cancer",
+        "esophageal cancer",
+        "pancreatic adenocarcinoma"
+      ],
+      "Endoscopy & Quality": [
+        "endoscopy",
+        "endoscopic quality control",
+        "endoscopy training",
+        "gastrointestinal endoscopy",
+        "confocal laser endomicroscopy",
+        "advanced endoscopy",
+        "bariatric endoscopy",
+        "digestive endoscopy",
+        "digestive endoscopy nursing"
+      ],
+      "General": [
+        "gastroenterology/hepatology",
+        "gastroenterology and hepatology"
+      ],
+      "General (NEW)": [
+        "gastroenterology nursing"
+      ]
+    },
+    "Nephrology & Genitourinary (Medical)": {
+      "General Nephrology": [
+        "acute kidney injury",
+        "acute kidney injury (AKI)",
+        "chronic kidney disease",
+        "glomerular disease",
+        "kidney stone prevention",
+        "nephrology",
+        "nephrology (CKD)",
+        "nephropathology (kidney pathology)",
+        "nephrotoxicity",
+        "rare kidney disease",
+        "renal pathology",
+        "special populations (pregnancy, allergy, geriatrics, chronic kidney disease, pediatrics)",
+        "urolithiasis (kidney stones)"
+      ],
+      "Kidney Replacement & Transplant": [
+        "kidney transplantation",
+        "dialysis",
+        "transplant nephrology",
+        "renal transplantation",
+        "hemodialysis",
+        "peritoneal dialysis",
+        "continuous renal replacement therapy (CRRT)"
+      ],
+      "Stones & Electrolyte": [
+        "kidney stones",
+        "urolithiasis",
+        "electrolyte disorders",
+        "nephrolithiasis",
+        "urolithiasis/kidney stone prevention",
+        "endourology (urolithiasis)",
+        "endourology/stone disease",
+        "benign prostatic hyperplasia"
+      ]
+    },
+    "Infectious Disease": {
+      "General & Tropical": [
+        "Clostridioides difficile infection management",
+        "COVID-19 outpatient treatment",
+        "disease surveillance",
+        "herpes zoster (shingles)",
+        "infectious disease",
+        "infectious diseases",
+        "influenza",
+        "malaria",
+        "microbiome",
+        "parasitic diseases",
+        "parasitology",
+        "rare respiratory diseases",
+        "tropical medicine",
+        "typhoid fever",
+        "virology"
+      ],
+      "Antimicrobial Management": [
+        "antimicrobial stewardship",
+        "antimicrobial resistance",
+        "outbreak preparedness",
+        "hospital epidemiology",
+        "infection control",
+        "infection prevention and control",
+        "infection prevention",
+        "infection prevention/SSI",
+        "antimicrobial susceptibility testing",
+        "antibiogram interpretation"
+      ],
+      "HIV / AIDS": [
+        "HIV medicine",
+        "HIV",
+        "HIV/AIDS",
+        "HIV prevention (PrEP/PEP)",
+        "PrEP",
+        "PrEP support",
+        "antiretroviral therapy"
+      ],
+      "Orthopedic Infections": [
+        "infectious disease (orthopedic)",
+        "bone and joint infection",
+        "musculoskeletal infection",
+        "prosthetic joint infection",
+        "periprosthetic joint infection"
+      ]
+    },
+    "Rheumatology & Immunology": {
+      "Allergy & Immunology": [
+        "allergy and immunology",
+        "allergy/immunology",
+        "food allergy",
+        "drug allergy",
+        "hereditary angioedema",
+        "primary immunodeficiency",
+        "urticaria",
+        "allergy and clinical immunology"
+      ],
+      "Autoimmune & Systemic": [
+        "adult rheumatology",
+        "ankylosing spondylitis",
+        "atopic dermatitis",
+        "autoimmune diseases",
+        "autoimmune liver disease",
+        "autoimmune rheumatic diseases",
+        "axial spondyloarthritis",
+        "gout",
+        "gout/hyperuricemia",
+        "inflammatory arthritis",
+        "inflammatory rheumatic diseases (IRD)",
+        "lupus/SLE",
+        "myositis",
+        "osteoarthritis",
+        "osteoarthritis management",
+        "psoriasis",
+        "rheumatoid arthritis",
+        "rheumatology",
+        "spondyloarthritis",
+        "systemic autoimmune diseases",
+        "systemic lupus erythematosus",
+        "systemic lupus erythematosus (SLE)"
+      ]
+    },
+    "Hematology (Benign)": {
+      "Benign Hematology": [
+        "bleeding disorders",
+        "blood banking",
+        "hemophilia",
+        "hemoglobinopathies"
+      ]
+    },
+    "Geriatrics & Cognitive": {
+      "Geriatrics": [
+        "geriatrics",
+        "long\u2011term care",
+        "frailty assessment",
+        "geriatric assessment"
+      ],
+      "Cognitive Disorders": [
+        "dementia",
+        "Alzheimer's disease",
+        "dementia/Alzheimer's disease",
+        "cognitive neurology",
+        "dementia caregiving",
+        "dementia/cognitive disorders",
+        "mild cognitive impairment"
+      ]
+    },
+    "General / Multisystem": {
+      "Internal Medicine": [
+        "general medicine",
+        "hospital medicine",
+        "primary care",
+        "multisystem",
+        "multiple (13 medical specialties)",
+        "internal medicine",
+        "family medicine",
+        "multispecialty",
+        "multispecialty medicine",
+        "multiple specialties",
+        "general internal medicine",
+        "multi-specialty",
+        "multi-specialty medicine",
+        "unsure",
+        "multidisciplinary",
+        "adult medicine",
+        "multi-specialty clinical medicine"
+      ],
+      "Clinical Skills": [
+        "history taking",
+        "physical examination",
+        "clinical decision-making",
+        "diagnostic reasoning",
+        "assessment",
+        "procedural skills",
+        "medical interviewing",
+        "clinical skills/history taking"
+      ]
+    }
+  },
+  "Pediatrics": {
+    "Neonatology & Perinatology": {
+      "Neonatal Intensive Care": [
+        "neonatal intensive care",
+        "neonatal-perinatal medicine",
+        "neonatology",
+        "chronic neonatal lung disease"
+      ],
+      "Fetal & Perinatal": [
+        "fetal medicine",
+        "maternal-fetal medicine",
+        "perinatal health",
+        "perinatal psychiatry",
+        "perinatology",
+        "perinatal care",
+        "perinatal addiction medicine"
+      ]
+    },
+    "Pediatric Cardiology": {
+      "General & Surgery": [
+        "pediatric cardiology",
+        "pediatric cardiac surgery",
+        "fetal cardiology",
+        "congenital cardiology",
+        "fetal echocardiography"
+      ]
+    },
+    "Pediatric Oncology & Hematology": {
+      "Cancer": [
+        "pediatric oncology",
+        "pediatric hematology/oncology",
+        "pediatric radiation oncology",
+        "pediatric hematology-oncology"
+      ],
+      "Stem Cell & Transplant": [
+        "hematopoietic stem cell transplantation (pediatric)"
+      ]
+    },
+    "Pediatric Neurology / Neurodevelopment": {
+      "Neurology": [
+        "pediatric neurology",
+        "developmental and behavioral pediatrics",
+        "epileptology",
+        "child neurology"
+      ],
+      "Neurosurgery": [
+        "pediatric neurosurgery",
+        "pediatric spine surgery"
+      ],
+      "Neurodevelopmental Disorders": [
+        "autism spectrum disorder",
+        "ADHD",
+        "ADHD therapy",
+        "neurodevelopmental disorders",
+        "autism",
+        "developmental pediatrics",
+        "learning disorders"
+      ]
+    },
+    "Pediatric Critical & Emergency Care": {
+      "Critical Care": [
+        "pediatric critical care",
+        "pediatric intensive care",
+        "PICU"
+      ],
+      "Emergency": [
+        "pediatric emergency medicine",
+        "pediatric resuscitation (PALS)",
+        "pediatric hospital medicine",
+        "emergency pediatrics"
+      ]
+    },
+    "Pediatric Subspecialties": {
+      "Endocrinology": [
+        "pediatric endocrinology",
+        "pediatric hypertension"
+      ],
+      "Nephrology": [
+        "pediatric nephrology",
+        "pediatric genetics"
+      ],
+      "Rheumatology": [
+        "pediatric rheumatology"
+      ],
+      "Dermatology": [
+        "pediatric dermatology"
+      ],
+      "Otolaryngology": [
+        "pediatric otolaryngology"
+      ],
+      "Ophthalmology": [
+        "pediatric ophthalmology",
+        "retinopathy of prematurity"
+      ],
+      "Orthopedics": [
+        "pediatric orthopedics",
+        "pediatric orthopedic surgery"
+      ],
+      "Urology": [
+        "pediatric urology"
+      ],
+      "Sleep": [
+        "pediatric sleep medicine"
+      ],
+      "Allergy": [
+        "pediatric allergy"
+      ],
+      "Pharmacology": [
+        "pediatric pharmacology"
+      ],
+      "Infectious Disease": [
+        "pediatric infectious disease"
+      ],
+      "Pulmonology": [
+        "pediatric pulmonology"
+      ],
+      "Dysphagia": [
+        "pediatric dysphagia"
+      ],
+      "Speech & Language Disorders": [
+        "pediatric speech and language disorders"
+      ]
+    },
+    "Child Protection & Social": {
+      "Child Abuse": [
+        "child abuse / abusive head trauma",
+        "child abuse pediatrics"
+      ],
+      "Child Welfare & Mental Health": [
+        "child welfare",
+        "child and adolescent psychiatry",
+        "child psychiatry",
+        "behavioral health",
+        "child and adolescent psychiatry/psychology"
+      ]
+    },
+    "General Pediatrics": [
+      "pediatrics",
+      "adolescent medicine",
+      "pediatric",
+      "general pediatrics"
+    ],
+    "Pediatric Subspecialties (Organ-based)": {
+      "Orthopedics": [
+        "pediatric orthopaedics"
+      ],
+      "Audiology": [
+        "pediatric audiology"
+      ]
+    },
+    "Pediatric Surgery": [
+      "pediatric surgery",
+      "neonatal endoscopic surgery",
+      "neonatal surgery",
+      "pediatric plastic surgery",
+      "pediatric appendicitis"
+    ],
+    "Toxicology": [
+      "pediatric toxicology",
+      "medical toxicology",
+      "clinical toxicology"
+    ],
+    "Rehabilitation": [
+      "pediatric rehabilitation"
+    ]
+  },
+  "Obstetrics, Gynecology & Women's Health": {
+    "Obstetrics": {
+      "General": [
+        "obstetrics",
+        "obstetric anesthesia",
+        "obstetric emergencies",
+        "postpartum hemorrhage",
+        "postpartum care",
+        "obstetric ultrasound",
+        "antenatal care"
+      ],
+      "Maternal\u2013Fetal": [
+        "maternal-fetal medicine",
+        "perinatal health",
+        "lactation medicine",
+        "diabetes in pregnancy"
+      ],
+      "Maternal-Fetal": [
+        "obstetric anesthesiology"
+      ]
+    },
+    "Gynecology": {
+      "General & Benign": [
+        "obstetrics and gynecology",
+        "gynecologic emergencies",
+        "urogynecology",
+        "pelvic floor surgery",
+        "urinary incontinence",
+        "minimally invasive gynecologic surgery",
+        "gynecology",
+        "benign gynecology"
+      ],
+      "Reproductive Endocrinology": [
+        "reproductive endocrinology",
+        "reproductive endocrinology and infertility",
+        "infertility",
+        "endometriosis",
+        "polycystic ovary syndrome (implicit in infertility topics)",
+        "reproductive medicine",
+        "assisted reproductive technology (ART)",
+        "reproductive genetics"
+      ],
+      "Gynecologic Oncology": [
+        "gynecologic oncology",
+        "ovarian cancer",
+        "uterine fibroids",
+        "cervical cancer screening"
+      ],
+      "Imaging": [
+        "gynecologic imaging",
+        "gynecologic radiology",
+        "gynecologic radiology (O-RADS MRI)",
+        "women's imaging"
+      ],
+      "Surgery": [
+        "gender affirmation surgery",
+        "gender-affirmation surgery",
+        "gynecologic surgery"
+      ],
+      "Aesthetic & Reconstructive": [
+        "breast plastic surgery",
+        "breast reconstruction",
+        "aesthetic plastic surgery",
+        "transgender health",
+        "aesthetic (cosmetic) surgery"
+      ],
+      "Pelvic Medicine & Reconstructive Surgery": [
+        "female pelvic medicine and reconstructive surgery",
+        "female pelvic medicine and reconstructive surgery (FPMRS)",
+        "pelvic medicine and reconstructive surgery"
+      ]
+    },
+    "Sexual & Reproductive Health": {
+      "Family Planning / Contraception": [
+        "family planning",
+        "family planning/contraception",
+        "contraception",
+        "contraception counseling"
+      ],
+      "Sexual Health": [
+        "sexual health",
+        "andrology/sexual medicine",
+        "andrology",
+        "sexual medicine",
+        "gender-affirming surgery",
+        "sexual health / sexually transmitted infections",
+        "sexual and reproductive health"
+      ],
+      "Sexually Transmitted Infections": [
+        "sexually transmitted infections",
+        "sexually transmitted infections (STIs)",
+        "sexually transmitted infections (STIs/STDs)",
+        "STIs"
+      ],
+      "Midlife & Menopause": [
+        "midlife health",
+        "menopause",
+        "postmenopausal health"
+      ],
+      "Reproductive Health": [
+        "reproductive health"
+      ]
+    },
+    "Benign Prostatic Hyperplasia": [
+      "benign prostatic hyperplasia (BPH)",
+      "benign prostatic hyperplasia (BPH)/benign prostate enlargement (BPE)",
+      "benign prostatic enlargement (BPH)"
+    ]
+  },
+  "Surgery & Surgical Subspecialties": {
+    "General / Gastrointestinal Surgery": {
+      "General Surgery": [
+        "acute care and trauma surgery",
+        "acute care surgery",
+        "appendicitis",
+        "colorectal/anal disease",
+        "emergency general surgery",
+        "emergency internal medicine",
+        "enhanced recovery after surgery",
+        "esophageal disorders",
+        "esophageal surgery",
+        "gastrointestinal surgery",
+        "general surgery",
+        "hernia surgery",
+        "herniology",
+        "inguinal hernia",
+        "laparoscopic surgery",
+        "polytrauma",
+        "soft tissue infections",
+        "surgery",
+        "trauma and orthopaedic surgery",
+        "trauma orthopedics",
+        "upper GI surgery",
+        "wound care"
+      ],
+      "Upper GI & Bariatric": [
+        "upper gastrointestinal surgery",
+        "bariatric surgery",
+        "metabolic and bariatric surgery",
+        "one-anastomosis gastric bypass (OAGB)",
+        "foregut surgery"
+      ],
+      "Hepato\u2011Pancreatico\u2011Biliary": [
+        "acute pancreatitis",
+        "hepato-pancreatico-biliary",
+        "hepato-pancreato-biliary (HPB)",
+        "hepato-pancreatobiliary surgery",
+        "hepatobiliary",
+        "hepatobiliary oncology",
+        "hepatopancreaticobiliary surgery",
+        "hepatopancreatobiliary (HPB) surgery",
+        "hepatopancreatobiliary surgery",
+        "liver transplant (surgical)",
+        "pancreatic surgery",
+        "pancreatobiliary"
+      ],
+      "Colorectal": [
+        "colorectal surgery",
+        "colorectal oncology",
+        "colorectal dysplasia/cancer surveillance",
+        "proctology",
+        "benign anorectal disease"
+      ],
+      "Hepato-Pancreatico-Biliary": [
+        "hepatobiliary surgery"
+      ]
+    },
+    "Cardiothoracic & Vascular": {
+      "Cardiac Surgery": [
+        "cardiac surgery",
+        "adult congenital heart disease (surgical)",
+        "valvular heart disease (surgery)",
+        "cardiac intensive care"
+      ],
+      "Thoracic Surgery": [
+        "thoracic surgery",
+        "lung cancer (surgical)",
+        "lung cancer surgery",
+        "thoracic trauma"
+      ],
+      "Vascular Surgery": [
+        "vascular surgery",
+        "vascular medicine",
+        "vascular anomalies",
+        "vascular and endovascular surgery",
+        "aortic disease",
+        "abdominal aortic aneurysm"
+      ],
+      "Endovascular / Vascular Neurosurgery": [
+        "endovascular neurosurgery",
+        "vascular neurosurgery"
+      ],
+      "Cardiothoracic Surgery": [
+        "cardiothoracic surgery"
+      ]
+    },
+    "Orthopedic Surgery": {
+      "Trauma & Reconstruction": [
+        "adult reconstruction",
+        "basic and general orthopedics",
+        "degenerative spine disease",
+        "doctor-patient relationship",
+        "emergency orthopedics",
+        "foot and ankle orthopaedics",
+        "geriatric orthopedics",
+        "hand surgery / upper extremity reconstruction",
+        "health sciences librarianship",
+        "hip and knee",
+        "hip and knee osteoarthritis",
+        "hip disorders",
+        "hip fracture management",
+        "hip preservation",
+        "hip surgery",
+        "knee",
+        "knee disorders",
+        "knee osteoarthritis",
+        "knee/ACL",
+        "limb lengthening and reconstruction surgery",
+        "limb reconstruction surgery",
+        "lower extremity and foot",
+        "lower limb surgery",
+        "orthopaedic oncology",
+        "orthopaedic surgery",
+        "orthopaedic surgery education",
+        "orthopaedic trauma",
+        "orthopaedic trauma surgery",
+        "orthopaedic traumatology",
+        "orthopaedics",
+        "orthopedic sports medicine",
+        "orthopedic surgery",
+        "orthopedic trauma",
+        "orthopedic trauma surgery",
+        "orthopedics",
+        "patellofemoral disorders",
+        "pre-clerkship",
+        "reconstruction",
+        "reconstruction and trauma",
+        "shoulder",
+        "shoulder disorders",
+        "spinal deformity",
+        "spinal deformity (scoliosis)",
+        "spinal surgery",
+        "spine",
+        "spine deformity",
+        "spine oncology",
+        "spine surgery",
+        "trauma orthopedics",
+        "traumatology",
+        "undergraduate/pre-clerkship education",
+        "upper extremity",
+        "upper extremity trauma"
+      ],
+      "Adult Joint Reconstruction": [
+        "hip and knee arthroplasty",
+        "total knee arthroplasty",
+        "hip arthroplasty",
+        "knee arthroplasty",
+        "arthroplasty",
+        "adult joint reconstruction",
+        "total joint arthroplasty",
+        "lower limb arthroplasty",
+        "knee (TKA)",
+        "shoulder arthroplasty",
+        "total shoulder arthroplasty"
+      ],
+      "Sports & Arthroscopy": [
+        "sports surgery",
+        "hip arthroscopy",
+        "shoulder and elbow",
+        "shoulder and elbow surgery",
+        "shoulder surgery",
+        "knee surgery",
+        "knee/ACL surgery",
+        "knee/ACL reconstruction",
+        "ACL surgery",
+        "orthopaedic sports medicine",
+        "sports injuries",
+        "shoulder and knee orthopedics",
+        "arthroscopy"
+      ],
+      "Foot & Ankle": [
+        "foot and ankle surgery",
+        "foot and ankle orthopedics",
+        "foot and ankle",
+        "Achilles tendinopathy"
+      ],
+      "Hand & Wrist": [
+        "hand surgery",
+        "hand surgery / upper extremity",
+        "hand and wrist",
+        "elbow/upper extremity surgery",
+        "elbow/upper extremity"
+      ],
+      "Musculoskeletal Oncology": [
+        "orthopedic oncology",
+        "musculoskeletal oncology",
+        "sarcoma oncology",
+        "soft tissue sarcoma"
+      ]
+    },
+    "Neurosurgery": {
+      "General": [
+        "cerebrovascular neurosurgery",
+        "craniovertebral junction/spine",
+        "neurosurgery",
+        "neurosurgical education",
+        "neurosurgical nursing",
+        "neurosurgical training",
+        "neurosurgical triage",
+        "spine neurosurgery",
+        "trauma neurosurgery"
+      ],
+      "Cranial": [
+        "craniofacial surgery",
+        "Chiari malformation",
+        "functional neurosurgery",
+        "skull-base surgery",
+        "skull base surgery",
+        "pediatric neurosurgery",
+        "craniomaxillofacial surgery",
+        "craniofacial/cleft surgery",
+        "Chiari malformation and syringomyelia",
+        "Chiari I malformation"
+      ],
+      "Spine & Peripheral Nerve": [
+        "spine surgery",
+        "peripheral nerve surgery",
+        "neuro-urology (surgical)",
+        "spinal oncology",
+        "spinal cord medicine"
+      ]
+    },
+    "Plastic, Reconstructive & Aesthetic": {
+      "General": [
+        "plastic surgery",
+        "plastic and reconstructive surgery",
+        "aesthetic and reconstructive surgery"
+      ],
+      "Reconstructive": [
+        "reconstructive surgery",
+        "reconstructive dermatologic surgery",
+        "breast reconstruction",
+        "breast reconstruction surgery",
+        "craniofacial surgery",
+        "cleft lip and palate",
+        "body contouring",
+        "scar diagnostics",
+        "facial plastic and reconstructive surgery",
+        "renal surgery",
+        "skin cancer reconstruction",
+        "reconstructive microsurgery",
+        "facial plastics and reconstruction",
+        "limb lengthening and reconstruction surgery"
+      ],
+      "Aesthetic / Cosmetic": [
+        "abdominoplasty",
+        "aesthetic breast surgery",
+        "aesthetic facial plastic surgery",
+        "aesthetic medicine",
+        "aesthetic surgery",
+        "breast augmentation",
+        "cosmetic surgery",
+        "dentofacial deformities",
+        "emergency plastic surgery",
+        "facial aesthetic surgery",
+        "facial aesthetics",
+        "facial contouring surgery",
+        "facial palsy",
+        "facial plastic surgery",
+        "facial transplantation",
+        "facial traumatology",
+        "gender affirmation surgery",
+        "oculoplastic / blepharoplasty",
+        "oculoplastics/orbital surgery",
+        "orofacial pain",
+        "rhinoplasty"
+      ],
+      "Burn & Wound": [
+        "burn care"
+      ]
+    },
+    "Urologic & Genitourinary Surgery": {
+      "Oncology": [
+        "urologic oncology",
+        "urologic oncology (prostate)",
+        "prostate cancer",
+        "renal oncology",
+        "uro-oncology",
+        "sarcoma oncology"
+      ],
+      "Benign & Functional": [
+        "andrology/male infertility",
+        "andrology/men's health",
+        "benign urology",
+        "BPH (benign prostatic hyperplasia)",
+        "functional urology",
+        "male pelvic health",
+        "neuro-urology",
+        "neurourology",
+        "postprostatectomy urinary incontinence",
+        "stroke/vascular neurology",
+        "urodynamics",
+        "urologic",
+        "urologic surgery",
+        "urology",
+        "various neurology subspecialties",
+        "voiding dysfunction/overactive bladder"
+      ],
+      "Endourology & Stone Disease": [
+        "endourology",
+        "endourology/stone disease",
+        "urolithiasis",
+        "urinary stones (urolithiasis)"
+      ],
+      "Infections & Emergencies": [
+        "urological infections",
+        "urological emergencies",
+        "emergency urology",
+        "trauma urology"
+      ],
+      "Reconstructive": [
+        "reconstructive urology"
+      ]
+    },
+    "Other Specialized Surgery": {
+      "Endocrine Surgery": [
+        "thyroid surgery",
+        "parathyroid surgery (implicit)",
+        "adrenal surgery (implicit)",
+        "renal surgery",
+        "endocrine surgery",
+        "breast and endocrine surgery"
+      ],
+      "Transplant Surgery": [
+        "transplant surgery",
+        "organ transplantation",
+        "liver transplantation"
+      ],
+      "Microsurgery & Robotics": [
+        "microsurgery",
+        "robotic surgery",
+        "surgical robotics",
+        "reconstructive microsurgery"
+      ],
+      "Emergency / Trauma": [
+        "trauma surgery",
+        "burn surgery"
+      ],
+      "Endoscopic / Minimally-Invasive": [
+        "endoscopic surgery",
+        "endoscopic/minimally invasive surgery",
+        "minimally invasive surgery"
+      ],
+      "Oncologic & Specialty": [
+        "surgical oncology",
+        "oncodermatology",
+        "interventional oncology"
+      ],
+      "Robotics & Decision-Science": [
+        "robotics",
+        "human-robot interaction",
+        "surgical decision-making"
+      ]
+    },
+    "Perioperative & Anesthesia": {
+      "General Anesthesiology": [
+        "anesthesiology",
+        "preanesthesia",
+        "neuroanesthesia",
+        "neuroanesthesiology",
+        "ambulatory/day surgery anesthesia",
+        "regional anesthesiology"
+      ],
+      "Perioperative Care": [
+        "perioperative assessment",
+        "perioperative care",
+        "perioperative medicine",
+        "perioperative counseling",
+        "perioperative/ERAS",
+        "perioperative infection prophylaxis",
+        "perioperative risk stratification",
+        "perioperative nursing",
+        "perioperative neurocognitive disorders",
+        "perioperative cardiology"
+      ],
+      "Regional & Specialized": [
+        "regional anesthesia",
+        "ophthalmic anesthesia"
+      ],
+      "Postoperative & Recovery": [
+        "postoperative care",
+        "postoperative triage"
+      ]
+    }
+  },
+  "Neurology & Neurosciences": {
+    "Clinical Neurology": {
+      "General": [
+        "clinical neurology",
+        "neurologic",
+        "neurology",
+        "neuromuscular medicine"
+      ],
+      "Vascular": [
+        "stroke",
+        "stroke neurology",
+        "neurovascular",
+        "cerebral small vessel disease (implicit)",
+        "vascular neurology",
+        "stroke medicine",
+        "neurology (stroke)",
+        "vascular neurology (stroke)",
+        "cerebrovascular/stroke"
+      ],
+      "Movement & Neurodegenerative": [
+        "movement disorders",
+        "Parkinson\u2019s disease (implicit)",
+        "Parkinson's disease",
+        "neurodegenerative disease",
+        "multiple sclerosis",
+        "neurodegenerative diseases",
+        "neurodegenerative disorders",
+        "ALS/MND",
+        "amyotrophic lateral sclerosis (ALS)"
+      ],
+      "Epilepsy": [
+        "epilepsy",
+        "epileptology",
+        "epilepsy/epileptology",
+        "epilepsy surgery"
+      ],
+      "Headache & Pain": [
+        "headache",
+        "headache medicine",
+        "neuropathic pain",
+        "pain management",
+        "chronic pain management",
+        "pain/peripheral nerve",
+        "acute pain management"
+      ],
+      "Cognitive & Dementia": [
+        "cognitive neurology",
+        "Alzheimer's disease",
+        "dementia",
+        "cognitive assessment",
+        "dementia care",
+        "dementia/cognitive disorders",
+        "mild cognitive impairment",
+        "neurology (cognitive impairment)",
+        "neuropsychological assessment"
+      ],
+      "Sleep": [
+        "sleep medicine",
+        "narcolepsy"
+      ],
+      "Infections": [
+        "neuro-infections",
+        "neuroinfectious disease",
+        "neuroinfectious diseases"
+      ],
+      "Functional": [
+        "functional neurological disorders"
+      ],
+      "Trauma": [
+        "neurotrauma",
+        "traumatic brain injury"
+      ],
+      "Other": [
+        "disorders of consciousness",
+        "neuroscience"
+      ]
+    },
+    "Neuro\u2011Imaging & Physiology": {
+      "Neuroimaging": [
+        "neuroimaging",
+        "neuroradiology",
+        "computed tomography (brain)",
+        "radiomics (neuro)",
+        "pediatric neuroradiology",
+        "spine imaging",
+        "magnetic resonance imaging",
+        "magnetic resonance imaging (MRI)",
+        "MRI",
+        "MRI artifacts"
+      ],
+      "Neurophysiology": [
+        "neurophysiology",
+        "electrophysiology",
+        "clinical neurophysiology",
+        "clinical neurophysiology (EEG)",
+        "EMG/nerve conduction studies",
+        "electrodiagnostic medicine"
+      ]
+    },
+    "Sub\u2011disciplines": {
+      "Neuro\u2011Ophthalmology": [
+        "neuro\u2011ophthalmology"
+      ],
+      "Neuro\u2011Otology": [
+        "neurotology",
+        "vestibular disorders",
+        "vertigo/balance medicine",
+        "vestibular rehabilitation",
+        "vestibular neurology",
+        "vertigo and balance medicine",
+        "neuro-otology",
+        "neuro-otology/vestibular disorders"
+      ],
+      "Neuro\u2011Genetics": [
+        "neurogenetics",
+        "Mendelian disorders",
+        "demyelinating disease",
+        "neurocutaneous syndromes"
+      ],
+      "Neuro\u2011Critical Care": [
+        "neurocritical care"
+      ]
+    },
+    "Audiology": [
+      "audiology",
+      "hearing loss",
+      "cochlear implants",
+      "hearing aids",
+      "hearing electrophysiology",
+      "cochlear implantation"
+    ],
+    "Sub-disciplines": {
+      "Neuro-Psychology": [
+        "neuropsychology",
+        "clinical neuropsychology",
+        "performance validity testing"
+      ],
+      "Neuro-Interventional": [
+        "neurointerventional radiology",
+        "interventional neuroradiology",
+        "neurointerventional",
+        "neuroendovascular",
+        "neurointerventional surgery"
+      ]
+    },
+    "Behavioral Neurology": [
+      "behavioral neurology"
+    ],
+    "Neuroethics": [
+      "neuroethics"
+    ],
+    "Neuroengineering": [
+      "neuroengineering"
+    ]
+  },
+  "Psychiatry & Mental Health": {
+    "Adult Psychiatry": {
+      "Mood Disorders": [
+        "depression",
+        "bipolar disorder",
+        "depression detection",
+        "depression intervention",
+        "depression screening",
+        "depressive disorders",
+        "major depressive disorder",
+        "treatment-resistant depression",
+        "mood disorders"
+      ],
+      "Psychotic Disorders": [
+        "psychosis",
+        "psychosis/schizophrenia",
+        "schizophrenia",
+        "schizophrenia spectrum disorders",
+        "schizophrenia/psychosis"
+      ],
+      "Anxiety & OCD": [
+        "anxiety disorders",
+        "obsessive-compulsive disorder",
+        "social anxiety disorder"
+      ],
+      "Personality & Others": [
+        "personality disorders",
+        "suicidal crisis",
+        "borderline personality disorder",
+        "thought disorder assessment"
+      ],
+      "General": [
+        "adolescent mental health",
+        "affective computing",
+        "beta-lactamase detection",
+        "bloodstream infections",
+        "college mental health",
+        "ECT",
+        "electronic health records",
+        "homeostasis (electrolyte/acid-base)",
+        "hospital epidemiology/infection control",
+        "infection control/hospital epidemiology",
+        "infection prevention and control (IPC)",
+        "mental health",
+        "mental health screening",
+        "mental health services",
+        "mental health stigma",
+        "mental health support",
+        "motivational psychology",
+        "psychiatric interviewing",
+        "psychiatry",
+        "psychiatry/mental health",
+        "psychiatry/psychology",
+        "psychological support",
+        "self-directed learning",
+        "skin and soft tissue infections",
+        "surgical infection prevention",
+        "telepsychiatry/telephone triage",
+        "veterans mental health",
+        "women's mental health",
+        "young adult mental health",
+        "youth mental health"
+      ]
+    },
+    "Child & Adolescent Psychiatry": [
+      "child psychiatry",
+      "child and adolescent psychiatry",
+      "autism spectrum disorder",
+      "ADHD",
+      "developmental and behavioral pediatrics",
+      "child and adolescent psychiatry/psychology"
+    ],
+    "Subspecialties": {
+      "Addiction": [
+        "addiction psychiatry",
+        "addiction medicine",
+        "substance use disorders",
+        "substance use disorder treatment",
+        "opioid stewardship"
+      ],
+      "Consultation\u2011Liaison / Psychosomatic": [
+        "psychosomatic medicine"
+      ],
+      "Forensic": [
+        "forensic psychiatry",
+        "forensic medicine",
+        "crime scene investigation",
+        "forensic pathology",
+        "forensic firearm injury analysis",
+        "forensic injury appraisal",
+        "medico-legal reporting"
+      ],
+      "Geriatric": [
+        "dementia/Alzheimer's disease (psychiatric)",
+        "neuropsychiatry",
+        "geriatric psychiatry"
+      ],
+      "Perinatal": [
+        "perinatal psychiatry",
+        "maternal mental health"
+      ],
+      "Emergency": [
+        "emergency psychiatry",
+        "psychiatric triage",
+        "crisis intervention",
+        "disaster mental health"
+      ],
+      "Occupational & Student": [
+        "occupational mental health",
+        "student mental health",
+        "college health"
+      ],
+      "Computational": [
+        "computational psychiatry"
+      ],
+      "Cultural": [
+        "cultural psychiatry"
+      ]
+    },
+    "Therapies & Modalities": {
+      "Psychotherapy": [
+        "psychological counseling",
+        "psychotherapy",
+        "psychodynamic psychiatry",
+        "psychodynamic psychotherapy",
+        "cognitive behavioral therapy",
+        "behavioral therapy",
+        "narrative therapy",
+        "motivational interviewing",
+        "virtual reality therapy",
+        "art therapy",
+        "mental health counseling",
+        "psychoeducation",
+        "psychology",
+        "health psychology",
+        "mental health patient education",
+        "psychotherapy (CBT)",
+        "cognitive behavioral therapy (CBT)",
+        "cognitive behavioral therapy (ERP)",
+        "psychotherapy/counseling",
+        "psychotherapy training"
+      ],
+      "Suicidology": [
+        "suicide prevention",
+        "suicide risk assessment",
+        "suicidology",
+        "suicidology/crisis intervention"
+      ],
+      "Digital Mental Health": [
+        "digital psychiatry",
+        "telemental health",
+        "digital mental health",
+        "telepsychiatry",
+        "telepsychiatry/telemental health",
+        "internet interventions",
+        "digital phenotyping"
+      ],
+      "Psychopharmacology": [
+        "psychopharmacology",
+        "esketamine therapy"
+      ],
+      "Diagnostics & Assessment": [
+        "psychiatric diagnostics",
+        "psychological assessment",
+        "assessment and feedback",
+        "measurement-based care/progress monitoring",
+        "psychometrics",
+        "psychometrics/validity testing",
+        "neuropsychological assessment"
+      ]
+    },
+    "Stigma & Communication": [
+      "stigma reduction",
+      "mental health informatics",
+      "patient-centered communication",
+      "doctor-patient communication",
+      "doctor\u2013patient communication",
+      "health communication/patient education"
+    ],
+    "Crisis & First Aid": [
+      "psychological first aid"
+    ]
+  },
+  "Emergency & Critical Care": {
+    "Emergency Medicine": [
+      "clinical triage",
+      "digital triage",
+      "dispatch triage",
+      "ED triage",
+      "emergency department triage",
+      "emergency department triage (ESI)",
+      "emergency medical services",
+      "emergency medical services (EMS)",
+      "emergency medicine",
+      "emergency medicine",
+      "Emergency Medicine",
+      "emergency medicine clerkship",
+      "emergency neurology",
+      "emergency triage",
+      "EMS dispatch",
+      "geriatric emergency medicine",
+      "global emergency medicine",
+      "ICU triage",
+      "intensive care medicine",
+      "medical licensure",
+      "medical triage",
+      "patient triage",
+      "pre-hospital care",
+      "pre-hospital care/EMS",
+      "pre-hospital/EMS",
+      "prehospital care",
+      "prehospital care (EMS)",
+      "prehospital care/EMS",
+      "prehospital emergency care",
+      "prehospital medicine",
+      "prehospital/EMS",
+      "resuscitation/advanced life support",
+      "telephone triage",
+      "triage",
+      "triage/referral",
+      "triage/resource allocation",
+      "urgent care",
+      "urgent care/triage"
+    ],
+    "Critical Care": [
+      "critical care",
+      "critical care medicine",
+      "intensive care",
+      "critical care nephrology",
+      "critical care pharmacotherapy",
+      "intensive care medical education",
+      "neonatal intensive care",
+      "neurocritical care",
+      "perioperative assessment",
+      "sepsis",
+      "intensive care nursing",
+      "intensive care (ICU)",
+      "medical ICU (MICU)",
+      "medical intensive care unit (MICU)"
+    ],
+    "Resuscitation & Disaster": [
+      "advanced life support",
+      "resuscitation medicine",
+      "resuscitation science",
+      "cardiac arrest prognostication",
+      "disaster medicine",
+      "radiation emergency management",
+      "perioperative care",
+      "resuscitation",
+      "resuscitation (cardiac arrest)",
+      "resuscitation/post-cardiac arrest care",
+      "resuscitation/CPR",
+      "resuscitation (BLS/PALS)",
+      "extracorporeal life support (ECMO/eCPR)",
+      "basic life support (BLS)",
+      "basic life support",
+      "ACLS"
+    ],
+    "Trauma": [
+      "trauma",
+      "trauma triage",
+      "trauma surgery",
+      "emergency radiology",
+      "ENT emergencies",
+      "maxillofacial trauma",
+      "ocular trauma (orbital trauma)",
+      "traumatology",
+      "orthopedic trauma",
+      "craniofacial trauma",
+      "polytrauma",
+      "trauma imaging",
+      "trauma radiology"
+    ],
+    "First Aid & Point\u2011of\u2011Care": [
+      "first aid",
+      "emergency nursing",
+      "urgent care",
+      "psychological first aid"
+    ],
+    "Nutrition": [
+      "critical care nutrition"
+    ]
+  },
+  "Oncology & Hematology": {
+    "Medical Oncology": [
+      "oncology",
+      "hematology & oncology",
+      "hematology/oncology"
+    ],
+    "Solid Tumor Oncology": {
+      "Breast": [
+        "breast cancer",
+        "breast oncology",
+        "breast surgical oncology",
+        "breast imaging",
+        "breast pathology",
+        "breast surgery",
+        "aesthetic breast surgery",
+        "breast cancer screening",
+        "implant-based breast reconstruction"
+      ],
+      "GI": [
+        "gastrointestinal oncology",
+        "colorectal cancer",
+        "pancreatic cancer",
+        "colorectal oncology",
+        "pancreatic oncology",
+        "upper gastrointestinal surgery (oncologic part)",
+        "colorectal cancer screening/surveillance"
+      ],
+      "Thoracic": [
+        "lung cancer",
+        "thoracic oncology",
+        "lung cancer screening",
+        "lung cancer diagnostics",
+        "lung cancer staging"
+      ],
+      "Genitourinary": [
+        "prostate cancer",
+        "urologic oncology",
+        "urologic oncology (prostate)",
+        "renal oncology",
+        "genitourinary oncology"
+      ],
+      "Gynecologic": [
+        "gynecologic oncology"
+      ],
+      "Head & Neck": [
+        "head and neck cancer",
+        "head and neck oncology",
+        "head and neck oncology / thyroid surgery",
+        "thyroid cancer",
+        "head and neck oncology (nasopharyngeal carcinoma)",
+        "nasopharyngeal carcinoma"
+      ],
+      "Dermato\u2011Oncology": [
+        "melanoma",
+        "dermato-oncology",
+        "skin of color (oncologic aspects)",
+        "cutaneous oncology",
+        "cutaneous lymphoma",
+        "skin cancer"
+      ],
+      "Sarcoma & Rare": [
+        "sarcoma",
+        "rare diseases (oncology)",
+        "soft tissue sarcoma"
+      ],
+      "Neuro\u2011Oncology": [
+        "neuro-oncology",
+        "brain metastases (implicit)",
+        "molecular tumor board",
+        "molecular tumor boards"
+      ],
+      "Ocular": [
+        "ocular oncology",
+        "intraocular tumors",
+        "uveal melanoma"
+      ],
+      "Geriatric": [
+        "geriatric oncology"
+      ],
+      "Survivorship": [
+        "survivorship care",
+        "cancer survivorship"
+      ],
+      "Adolescent & Young Adult": [
+        "adolescent and young adult (AYA) oncology"
+      ]
+    },
+    "Hematologic Malignancy & Benign Hematology": {
+      "Hematology\u2011Oncology": [
+        "hematologic oncology",
+        "hematology-oncology",
+        "hematology",
+        "hematologic oncology (lymphoma)",
+        "lymphoma",
+        "diffuse large B-cell lymphoma (DLBCL)",
+        "multiple myeloma",
+        "plasma cell disorders",
+        "AL amyloidosis",
+        "amyloidosis"
+      ],
+      "Stem Cell & Cellular Therapy": [
+        "hematopoietic stem cell transplantation",
+        "stem cell therapy",
+        "therapeutic apheresis"
+      ],
+      "Benign Hematology": [
+        "bleeding disorders"
+      ],
+      "Hematology-Oncology": [
+        "hematology oncology"
+      ]
+    },
+    "Cross\u2011Cutting": {
+      "Immuno\u2011Oncology & Precision": [
+        "immuno-oncology",
+        "precision oncology",
+        "integrative oncology",
+        "precision medicine"
+      ],
+      "Oncologic Imaging": [
+        "oncologic imaging",
+        "cancer imaging",
+        "radiotherapy planning",
+        "radiation oncology",
+        "radiation oncology physics",
+        "radiation therapy",
+        "radiation therapy planning"
+      ],
+      "Supportive & Palliative": [
+        "palliative care",
+        "hospice and palliative medicine",
+        "supportive care",
+        "psycho-oncology",
+        "patient counseling",
+        "hospice care",
+        "supportive oncology",
+        "end-of-life care",
+        "end-of-life communication"
+      ]
+    },
+    "Cross-Cutting": {
+      "Medical Oncology": [
+        "medical oncology"
+      ],
+      "Rare & Precision": [
+        "rare disease",
+        "rare diseases",
+        "rare disease diagnostics",
+        "personalized medicine",
+        "rare diseases/medical genetics"
+      ],
+      "Supportive & Palliative": [
+        "palliative medicine"
+      ],
+      "Oncology Nursing": [
+        "oncology nursing"
+      ]
+    },
+    "Oncologic Pathology": [
+      "oncologic pathology"
+    ],
+    "Nutritional Oncology": [
+      "nutritional oncology"
+    ]
+  },
+  "Musculoskeletal & Rehabilitation": {
+    "Orthopedics": [
+      "(see detailed list under Surgery \u2013 Orthopedic Surgery)"
+    ],
+    "Physical Medicine & Rehabilitation": {
+      "General PM&R": [
+        "rehabilitation medicine",
+        "physical therapy",
+        "physiotherapy",
+        "assistive technology",
+        "assistive robotics",
+        "neurological rehabilitation",
+        "sports rehabilitation",
+        "physical medicine and rehabilitation",
+        "rehabilitation",
+        "stroke rehabilitation",
+        "spinal cord injury",
+        "musculoskeletal rehabilitation",
+        "musculoskeletal medicine",
+        "spinal cord injury medicine",
+        "gerontechnology",
+        "musculoskeletal",
+        "telerehabilitation",
+        "physiotherapy/rehabilitation",
+        "rehabilitation triage",
+        "rehabilitation engineering",
+        "cognitive rehabilitation/therapy"
+      ],
+      "Pain & Spine": [
+        "pain medicine",
+        "interventional pain",
+        "chronic pain",
+        "neuropathic pain",
+        "fibromyalgia",
+        "acute pain management",
+        "chronic low back pain",
+        "interventional spine procedures"
+      ],
+      "Sports Medicine": [
+        "sports medicine",
+        "exercise physiology",
+        "exercise prescription / health promotion",
+        "sports traumatology",
+        "sports nutrition",
+        "sports medicine",
+        "sports science",
+        "ultra-endurance sports",
+        "exercise science"
+      ],
+      "Bone Health": [
+        "bone health / skeletal biology",
+        "osteoporosis"
+      ]
+    }
+  },
+  "Ophthalmology & Vision Sciences": {
+    "General": [
+      "anterior segment",
+      "comprehensive ophthalmology",
+      "cornea and anterior segment",
+      "feline ophthalmology",
+      "global ophthalmology",
+      "medical retina",
+      "multiple ophthalmology subspecialties",
+      "oculoplastics/eyelid",
+      "oculoplastics/orbital",
+      "ophthalmic plastic and reconstructive surgery",
+      "ophthalmology",
+      "Ophthalmology",
+      "retina/diabetic retinopathy",
+      "retinal vascular disease",
+      "teleophthalmology",
+      "vitreoretinal (retina)"
+    ],
+    "Anterior Segment": {
+      "Cornea & External Disease": [
+        "cornea",
+        "cornea and external disease",
+        "cornea / refractive surgery",
+        "refractive surgery",
+        "myopia prevention and control",
+        "ocular surface",
+        "ocular surface diseases",
+        "corneal transplantation",
+        "cornea/corneal disease",
+        "ocular surface disease/dry eye",
+        "ocular surface disease (dry eye)",
+        "ocular surface disease",
+        "Fuchs dystrophy",
+        "keratoconus",
+        "cornea/external disease",
+        "Corneal and External Diseases"
+      ],
+      "Cataract & Lens": [
+        "cataract",
+        "cataract surgery",
+        "lens and cataract",
+        "cataract/refractive",
+        "lens",
+        "Lens",
+        "cataract/refractive surgery",
+        "lens/cataract"
+      ]
+    },
+    "Posterior Segment": {
+      "Retina": [
+        "retina",
+        "retina/vitreous diseases",
+        "retina/vitreoretinal",
+        "retina surgery",
+        "vitreoretinal disease",
+        "vitreoretinal diseases",
+        "vitreoretinal surgery",
+        "diabetic retinopathy",
+        "retinopathy of prematurity",
+        "retina (AMD)",
+        "retina (diabetic retinopathy)",
+        "diabetic macular edema",
+        "age-related macular degeneration",
+        "age-related macular degeneration (AMD)",
+        "macular disease",
+        "vitreoretinal",
+        "Vitreous and Retina"
+      ],
+      "Uveitis": [
+        "uveitis"
+      ]
+    },
+    "Glaucoma": [
+      "glaucoma",
+      "Glaucoma",
+      "glaucoma surgery"
+    ],
+    "Ocular Oncology": [
+      "ocular oncology",
+      "intraocular tumors",
+      "uveal melanoma"
+    ],
+    "Oculoplastics & Orbit": [
+      "oculoplastic surgery",
+      "oculoplastic / blepharoplasty",
+      "orbit and oculoplastics",
+      "ophthalmic plastics",
+      "oculoplastic/orbital surgery",
+      "orbital trauma",
+      "oculoplastics",
+      "ophthalmic plastic surgery",
+      "oculoplastics / lacrimal surgery",
+      "orbital and oculofacial (ophthalmic plastics)",
+      "oculoplastics/orbit",
+      "oculoplastic and orbital surgery",
+      "oculoplastics (eyelid, lacrimal, orbital)",
+      "oculofacial (oculoplastic) surgery",
+      "oculoplastic/eyelid surgery",
+      "Oculoplastic and Orbital Diseases",
+      "lacrimal surgery",
+      "oculofacial disorders",
+      "lacrimal disorders",
+      "orbital disease",
+      "oculoplastic or orbital surgery"
+    ],
+    "Pediatric / Strabismus": [
+      "pediatric ophthalmology",
+      "strabismus",
+      "strabismus and amblyopia",
+      "pediatrics and strabismus",
+      "strabismus/amblyopia"
+    ],
+    "Vision Rehabilitation": [
+      "low-vision rehabilitation",
+      "ocular imaging",
+      "ophthalmic imaging",
+      "oculomics",
+      "low vision",
+      "vision science"
+    ],
+    "Optometry & Contact Lens": [
+      "optometry",
+      "optometry/contact lenses",
+      "contact lenses",
+      "contact lens",
+      "orthokeratology",
+      "contact lenses & anterior eye",
+      "binocular vision",
+      "binocular vision & vision therapy",
+      "myopia",
+      "myopia control",
+      "myopia management",
+      "refractive error/myopia management"
+    ],
+    "Ocular Imaging & Research": [
+      "ocular imaging",
+      "ophthalmic imaging",
+      "ophthalmic imaging (OCT)",
+      "optical coherence tomography",
+      "ophthalmic ultrasound",
+      "image-based assessment"
+    ],
+    "Neuro-Ophthalmology": [
+      "neuro-ophthalmology",
+      "thyroid eye disease",
+      "thyroid eye disease (TAO)"
+    ],
+    "Emergency": [
+      "emergency ophthalmology",
+      "Emergency Ophthalmology"
+    ],
+    "Toxicity": [
+      "ocular toxicity"
+    ],
+    "Surgery": [
+      "ophthalmic surgery",
+      "surgical ophthalmology"
+    ],
+    "Anesthesia": [
+      "ophthalmic anesthesia"
+    ],
+    "Pathology": [
+      "ophthalmic pathology and intraocular tumors",
+      "ocular pathology"
+    ],
+    "Epidemiology": [
+      "ophthalmic epidemiology"
+    ],
+    "Inflammation": [
+      "ocular inflammation"
+    ]
+  },
+  "Otolaryngology, Head & Neck": {
+    "General ENT": [
+      "otolaryngology",
+      "otolaryngology\u2013head and neck surgery",
+      "otolaryngology/head and neck surgery",
+      "ENT emergencies",
+      "otorhinolaryngology",
+      "oculoplastics",
+      "otolaryngology (head and neck surgery)",
+      "otolaryngology (ENT)",
+      "otolaryngology-head and neck surgery",
+      "general otolaryngology"
+    ],
+    "Otology / Neurotology": [
+      "otology",
+      "otology/neurotology",
+      "neurotology",
+      "vestibular schwannoma management",
+      "vestibular schwannoma"
+    ],
+    "Rhinology & Allergy": [
+      "rhinology",
+      "allergy and rhinology",
+      "allergen immunotherapy",
+      "sinonasal surgery (implicit)",
+      "maxillofacial sinusitis management (odontogenic sinusitis management)",
+      "odontogenic sinusitis management",
+      "rhinosinusitis",
+      "sinusitis",
+      "sinus surgery"
+    ],
+    "Laryngology & Voice": [
+      "laryngology",
+      "voice disorders",
+      "voice pathology",
+      "laryngology/voice disorders"
+    ],
+    "Skull\u2011Base & Cranial": [
+      "skull-base surgery",
+      "skull base surgery",
+      "endoscopic skull-base surgery",
+      "skull base neurosurgery"
+    ],
+    "Head & Neck Oncology": [
+      "head and neck oncology",
+      "head and neck cancer",
+      "thyroid surgery",
+      "thyroid cancer",
+      "parathyroid disorders",
+      "head and neck surgical oncology",
+      "head and neck anatomy",
+      "head and neck",
+      "head and neck oncology (nasopharyngeal carcinoma)",
+      "nasopharyngeal carcinoma"
+    ],
+    "Vestibular & Balance": [
+      "vestibular disorders",
+      "vertigo/balance medicine",
+      "vestibular rehabilitation",
+      "vestibular neurology",
+      "vertigo and balance medicine"
+    ],
+    "Pediatric ENT": [
+      "pediatric otolaryngology"
+    ],
+    "Head & Neck Surgery": [
+      "head and neck surgery"
+    ],
+    "Emergency": [
+      "emergency otolaryngology"
+    ]
+  },
+  "Dermatology & Skin Disorders": {
+    "Medical Dermatology": [
+      "acne",
+      "acne vulgaris",
+      "alopecia areata",
+      "atopic dermatitis",
+      "autoinflammatory diseases",
+      "clinical dermatology",
+      "cutaneous oncology",
+      "dermatology",
+      "emergency dermatology",
+      "hair disorders",
+      "hidradenitis suppurativa",
+      "ichthyosis (implicit rare diseases)",
+      "inflammatory dermatology",
+      "inflammatory skin disease",
+      "mast cell disorders",
+      "medical dermatology",
+      "psoriasis",
+      "rosacea",
+      "skin of color",
+      "skin of color dermatology",
+      "teledermatology"
+    ],
+    "Surgical & Oncologic": [
+      "dermatologic surgery",
+      "surgical dermatology",
+      "Mohs surgery",
+      "Mohs micrographic surgery",
+      "dermatologic oncology",
+      "reconstructive dermatologic surgery",
+      "melanoma",
+      "dermoscopy",
+      "cutaneous lymphoma",
+      "skin cancer reconstruction",
+      "aesthetic/cosmetic dermatology"
+    ],
+    "Dermatopathology": [
+      "dermatopathology"
+    ],
+    "Imaging": [
+      "dermatologic imaging",
+      "dermatologic image analysis"
+    ]
+  },
+  "Dentistry & Oral Health": {
+    "General": [
+      "dentistry",
+      "oral health"
+    ],
+    "Restorative & Preventive": [
+      "preventive dentistry",
+      "restorative dentistry",
+      "dental materials",
+      "oral health education"
+    ],
+    "Endodontics": [
+      "endodontics",
+      "regenerative endodontics",
+      "endodontic apical surgery"
+    ],
+    "Periodontics": [
+      "periodontology",
+      "periodontics",
+      "periodontal surgery"
+    ],
+    "Orthodontics": [
+      "orthodontics",
+      "interceptive orthodontics"
+    ],
+    "Prosthodontics": [
+      "prosthodontics",
+      "implant dentistry",
+      "dental implantology",
+      "fixed prosthodontics",
+      "dental implants",
+      "maxillofacial prosthetics"
+    ],
+    "Oral & Maxillofacial Surgery": [
+      "oral & maxillofacial surgery",
+      "oral and maxillofacial surgery",
+      "maxillofacial surgery",
+      "oral surgery",
+      "orthognathic surgery",
+      "temporomandibular disorders",
+      "dentoalveolar surgery",
+      "impacted teeth",
+      "craniomaxillofacial plastic surgery",
+      "craniofacial",
+      "craniomaxillofacial surgery",
+      "facial trauma/craniofacial",
+      "cleft surgery"
+    ],
+    "Oral Medicine & Pathology": [
+      "oral medicine",
+      "oral oncology",
+      "oral pathology",
+      "oral and maxillofacial pathology",
+      "oral cytopathology",
+      "oral diagnosis",
+      "oral biology"
+    ],
+    "Radiology & Imaging": [
+      "oral and maxillofacial radiology",
+      "dentomaxillofacial radiology",
+      "dental imaging",
+      "oral radiology",
+      "dental radiology"
+    ],
+    "Trauma & Emergencies": [
+      "dental trauma",
+      "traumatic dental injuries",
+      "dental traumatology",
+      "emergency dentistry"
+    ],
+    "Pediatric Dentistry": [
+      "paediatric dentistry",
+      "pediatric dentistry",
+      "dental sleep medicine"
+    ],
+    "Dental Public Health & Education": [
+      "dental public health",
+      "dental education",
+      "special care dentistry",
+      "dietetics",
+      "clinical dental practice education",
+      "dental hygiene",
+      "dental hygiene and therapy",
+      "oral health education"
+    ]
+  },
+  "Diagnostic Sciences & Imaging": {
+    "Radiology": {
+      "General": [
+        "Abdominal and Pelvic Radiology",
+        "body imaging",
+        "cataract or refractive",
+        "CT imaging",
+        "diagnostic imaging",
+        "diagnostic radiology",
+        "gastrointestinal imaging",
+        "general radiology",
+        "imaging informatics",
+        "liver imaging/hepatology",
+        "magnetic resonance imaging (MRI) protocoling",
+        "male lower urinary tract symptoms (LUTS)",
+        "medical imaging AI",
+        "medical imaging informatics",
+        "multiple radiologic subspecialties",
+        "multiple radiology subspecialties",
+        "Musculoskeletal and Breast Imaging",
+        "PET/CT imaging",
+        "prostate MRI",
+        "radiation protection",
+        "radiation safety",
+        "radiography",
+        "radiography education",
+        "radiology",
+        "radiology education",
+        "radiology reporting",
+        "radiology reporting/NLP",
+        "shoulder imaging",
+        "Thoracic and Cardiac Radiology",
+        "thyroid imaging",
+        "urinary tract infections",
+        "various radiology subspecialties",
+        "vascular imaging"
+      ],
+      "Breast": [
+        "breast imaging",
+        "mammography",
+        "breast imaging",
+        "breast",
+        "breast imaging/mammography"
+      ],
+      "Cardiothoracic": [
+        "cardiothoracic radiology",
+        "thoracic imaging",
+        "thoracic radiology (lung CT screening, Lung-RADS)",
+        "thoracic radiology",
+        "thoracic radiology (lung CT screening, Lung-RADS)",
+        "thoracic radiology",
+        "chest radiology",
+        "cardiovascular radiology",
+        "cardiovascular imaging",
+        "chest medicine",
+        "chest",
+        "chest imaging",
+        "chest radiography",
+        "chest CT",
+        "cardiothoracic imaging"
+      ],
+      "Abdominal & Pelvic": [
+        "abdominal radiology",
+        "abdominal imaging",
+        "abdominal and pelvic radiology",
+        "gastrointestinal radiology",
+        "hepato\u2011pancreatico\u2011biliary imaging",
+        "abdominal radiology (liver imaging, LI-RADS)",
+        "pancreatic imaging",
+        "hepatobiliary imaging",
+        "abdominal pathology"
+      ],
+      "Musculoskeletal": [
+        "musculoskeletal imaging",
+        "musculoskeletal radiology",
+        "musculoskeletal radiography"
+      ],
+      "Neuro": [
+        "neuroradiology",
+        "neuroimaging",
+        "head and neck imaging",
+        "neurointerventional radiology",
+        "pediatric neuroradiology",
+        "Neuroradiology and Head and Neck Imaging",
+        "neuroanatomical localization",
+        "diagnostic imaging/interpretation"
+      ],
+      "Genitourinary": [
+        "genitourinary radiology",
+        "urogenital radiology",
+        "uroradiology",
+        "urogenital radiology",
+        "prostate imaging",
+        "genitourinary imaging"
+      ],
+      "Pediatric": [
+        "pediatric radiology",
+        "pediatric imaging (radiology)"
+      ],
+      "Head & Neck": [
+        "head and neck imaging",
+        "head and neck radiology"
+      ],
+      "Gynecologic": [
+        "gynecologic radiology",
+        "gynecologic radiology (O-RADS MRI)"
+      ],
+      "Trauma": [
+        "trauma imaging",
+        "trauma radiology"
+      ],
+      "Spine": [
+        "spine imaging"
+      ],
+      "Women": [
+        "women's imaging"
+      ]
+    },
+    "Nuclear Medicine & Molecular Imaging": [
+      "nuclear cardiology",
+      "nuclear medicine",
+      "Nuclear Medicine",
+      "nuclear medicine (theranostics/radioligand therapy)",
+      "nuclear medicine technology",
+      "peptide receptor radionuclide therapy (PRRT)",
+      "PET imaging",
+      "PET/CT",
+      "radioiodine therapy",
+      "radionuclide therapy",
+      "radiotherapy treatment planning",
+      "theranostics",
+      "treatment planning",
+      "VMAT"
+    ],
+    "Ultrasound & Interventional": [
+      "ultrasound",
+      "interventional radiology",
+      "endourology (imaging aspects)",
+      "ultrasonography",
+      "sonography",
+      "ultrasound medicine",
+      "emergency ultrasound/POCUS"
+    ],
+    "Medical Physics & Engineering": [
+      "radiology physics",
+      "medical physics",
+      "radiation oncology physics",
+      "computed tomography",
+      "contrast media",
+      "radiological protection",
+      "clinical engineering",
+      "medical devices",
+      "general & physics",
+      "medical physics/dosimetry",
+      "computed tomography (CT)",
+      "imaging physics/quality assurance",
+      "MRI artifacts",
+      "imaging safety",
+      "radiological technology",
+      "radiology report generation"
+    ],
+    "Pathology (Anatomic & Clinical)": {
+      "Anatomic Pathology": [
+        "anatomic pathology",
+        "histopathology",
+        "neuropathology",
+        "dermatopathology",
+        "genitourinary pathology",
+        "gastrointestinal pathology",
+        "breast pathology",
+        "dentistry\u2013related pathology (oral pathology, etc.)",
+        "pathology",
+        "surgical pathology",
+        "head and neck pathology",
+        "ophthalmic pathology",
+        "hepatobiliary pathology",
+        "diagnostic pathology",
+        "gynecologic pathology",
+        "cytopathology",
+        "cytomorphology",
+        "molecular pathology",
+        "abdominal pathology",
+        "forensic pathology",
+        "pulmonary pathology",
+        "recommender systems"
+      ],
+      "Clinical Pathology & Lab Medicine": [
+        "clinical pathology",
+        "clinical chemistry",
+        "clinical biochemistry",
+        "clinical laboratory medicine",
+        "hematopathology",
+        "microbiology",
+        "clinical microbiology",
+        "transfusion medicine",
+        "blood banking",
+        "laboratory medicine",
+        "laboratory management",
+        "laboratory medicine/clinical biochemistry",
+        "medical laboratory science",
+        "serology",
+        "diagnostic criteria evaluation"
+      ],
+      "Digital & Computational": [
+        "digital pathology",
+        "computational pathology",
+        "radiomics",
+        "medical imaging analysis",
+        "medical image analysis",
+        "orthopedic information retrieval",
+        "biomedical imaging",
+        "biomedical informatics",
+        "biomedical NLP",
+        "dermatologic image analysis",
+        "medical imaging/computer vision"
+      ],
+      "Education": [
+        "pathology education"
+      ],
+      "Oncologic Pathology": [
+        "oncologic pathology"
+      ]
+    },
+    "General": [
+      "diagnostic medicine",
+      "medical imaging",
+      "diagnostic criteria",
+      "diagnostic error research",
+      "diagnostics",
+      "diagnostic decision-making",
+      "diagnostic decision support",
+      "diagnostic imaging/interpretation"
+    ],
+    "Molecular Imaging": [
+      "molecular imaging"
+    ],
+    "Immunohistochemistry": [
+      "immunohistochemistry"
+    ],
+    "Reporting": [
+      "reporting"
+    ]
+  },
+  "Pharmacology & Pharmacy": {
+    "Clinical Pharmacy Practice": [
+      "clinical pharmacy",
+      "pharmacy practice",
+      "hospital pharmacy",
+      "community pharmacy",
+      "pharmaceutical care",
+      "pharmacy",
+      "ambulatory care"
+    ],
+    "Pharmacotherapy & MTM": [
+      "cardiovascular pharmacotherapy",
+      "clinical pharmacology/toxicology",
+      "critical care pharmacy",
+      "deprescribing",
+      "drug information systems",
+      "e-prescribing",
+      "endocrine pharmacotherapy",
+      "geriatric pharmacotherapy",
+      "infectious diseases pharmacotherapy",
+      "medication counseling",
+      "medication management",
+      "medication reconciliation",
+      "medication therapy management",
+      "oncology pharmacy",
+      "opioid prescribing",
+      "pharmaceutical counselling",
+      "pharmacokinetics",
+      "pharmacotherapy",
+      "polypharmacy",
+      "polypharmacy management",
+      "prescribing",
+      "respiratory/pulmonary pharmacotherapy"
+    ],
+    "Pharmacovigilance & Safety": [
+      "pharmacovigilance",
+      "drug safety",
+      "medication safety",
+      "adverse event detection",
+      "drug safety/pharmacovigilance",
+      "adverse drug reactions",
+      "medication safety/pharmacology"
+    ],
+    "Pharmacogenomics & Precision": [
+      "pharmacogenomics",
+      "personalized medicine (drug side)",
+      "precision oncology (drug side)",
+      "pharmacogenetics",
+      "genomic medicine",
+      "variant interpretation",
+      "genomic variant interpretation"
+    ],
+    "Specialised Disciplines": [
+      "clinical pharmacology",
+      "clinical pharmacology/pharmacy",
+      "pharmacology/toxicology",
+      "toxicology",
+      "pharmacoepidemiology",
+      "drug information",
+      "pharmacology",
+      "medical toxicology",
+      "clinical toxicology",
+      "drug reactions/clinical pharmacology",
+      "drug-drug interactions",
+      "drug interaction checking",
+      "computational pharmacology",
+      "therapeutic drug monitoring",
+      "drug combination therapy",
+      "off-label prescribing"
+    ],
+    "Education & Informatics": [
+      "pharmacy education",
+      "pharmacy informatics",
+      "medication adherence"
+    ],
+    "Dispensing": [
+      "dispensing"
+    ]
+  },
+  "Public Health & Preventive Medicine": {
+    "Patient Education": [
+      "bilingual health communication",
+      "breaking bad news (BBN)",
+      "communication skills/professionalism",
+      "consumer health",
+      "consumer health information",
+      "health communication",
+      "health communication/medical interpretation",
+      "health education",
+      "health literacy",
+      "health literacy/patient communication",
+      "healthcare communication",
+      "informed consent",
+      "informed consent/patient communication",
+      "interprofessional communication",
+      "language access",
+      "patient communication/counseling",
+      "patient communication/EHR messaging",
+      "patient communication/health literacy",
+      "patient education",
+      "patient education and counselling",
+      "patient education/communication",
+      "patient education/consumer health information",
+      "patient education/health communication",
+      "patient education/health consultation",
+      "patient education/health literacy",
+      "patient education/usability",
+      "patient engagement",
+      "patient-clinician communication",
+      "patient-family communication",
+      "patient-physician communication",
+      "professionalism (AETCOM)",
+      "public health education",
+      "shared decision making",
+      "shared decision-making",
+      "social communication training"
+    ],
+    "Special Education": [
+      "special education"
+    ],
+    "Population & Epidemiology": [
+      "community medicine",
+      "epidemiology",
+      "health disparities",
+      "health equity/bias",
+      "health equity/disparities",
+      "health equity/health disparities",
+      "health services research",
+      "infodemiology",
+      "life course epidemiology",
+      "Medicare and long-term care insurance",
+      "Medicare policy",
+      "population health",
+      "preventive medicine",
+      "preventive medicine/public health",
+      "public health",
+      "screening",
+      "screening/preventive care"
+    ],
+    "Infectious Disease Prevention": [
+      "vaccinology",
+      "outbreak preparedness",
+      "hospital epidemiology",
+      "immunizations/vaccination",
+      "vaccinology/immunization",
+      "vaccine safety"
+    ],
+    "Environmental & Occupational": [
+      "occupational medicine",
+      "health physics",
+      "environmental health",
+      "occupational risk prevention",
+      "occupational health legislation"
+    ],
+    "Screening & Early Detection": [
+      "cancer screening",
+      "colorectal cancer screening",
+      "lung cancer screening",
+      "diabetic retinopathy (screening)",
+      "rare disease diagnosis",
+      "rare disease diagnostics",
+      "skin cancer screening",
+      "screening guidelines",
+      "screening/preventive care",
+      "screening/preventive care",
+      "cancer screening/prevention",
+      "cervical cancer screening"
+    ],
+    "Lifestyle & Nutrition": [
+      "public health nutrition",
+      "nutrition",
+      "dietary counseling",
+      "dietary assessment",
+      "weight management",
+      "exercise prescription / health promotion",
+      "clinical nutrition",
+      "personalized nutrition",
+      "nutrition and dietetics",
+      "nutrition/dietetics",
+      "diet assessment",
+      "diet recommendation",
+      "smoking cessation",
+      "health promotion",
+      "behavior change / health promotion",
+      "medical nutrition therapy",
+      "nutrition education",
+      "dietary planning",
+      "nutrition informatics",
+      "chronic disease self-management",
+      "fitness coaching/weight management",
+      "tobacco control",
+      "tobacco research",
+      "tobacco cessation",
+      "behavior change",
+      "behavior change (Transtheoretical Model of Change)",
+      "behavior change counseling",
+      "health behavior change",
+      "health behavior change counseling"
+    ],
+    "Global & Travel Medicine": [
+      "travel medicine",
+      "tropical medicine",
+      "equine medicine",
+      "global health",
+      "maternal and child health"
+    ],
+    "Quality, Safety & Policy": [
+      "medical ethics",
+      "bioethics",
+      "quality improvement",
+      "patient safety/quality improvement",
+      "quality assurance",
+      "healthcare quality",
+      "health policy/insurance",
+      "health policy",
+      "health policy/law",
+      "health law",
+      "health economics",
+      "medical jurisprudence",
+      "regulatory science",
+      "dispute mediation"
+    ],
+    "Community Engagement": [
+      "community engagement"
+    ]
+  },
+  "Allied Health, Nursing & Rehabilitation Professions": {
+    "Nursing (Clinical)": [
+      "nursing",
+      "community nursing",
+      "emergency nursing",
+      "critical care nursing (implicit via ICU)",
+      "mental health nursing",
+      "perinatal nursing",
+      "student mental health (nursing support)",
+      "pediatric nursing",
+      "psychiatric nursing",
+      "oncology nursing",
+      "virtual nursing",
+      "nursing practice",
+      "intensive care nursing",
+      "perioperative nursing",
+      "wound, ostomy, and continence nursing"
+    ],
+    "Nursing (Education & Informatics)": [
+      "nursing education",
+      "nursing informatics",
+      "nursing care planning",
+      "nursing diagnosis/care planning"
+    ],
+    "Allied Rehabilitation": {
+      "Speech & Language": [
+        "speech-language pathology",
+        "speech sound disorders",
+        "motor speech disorders",
+        "stuttering",
+        "aphasia",
+        "childhood language disorders",
+        "augmentative and alternative communication",
+        "swallowing disorders",
+        "speech and language therapy",
+        "augmentative and alternative communication (AAC)",
+        "aphasia rehabilitation",
+        "aphasia therapy",
+        "fluency disorders (stuttering)",
+        "speech/language assessment",
+        "neurogenic communication disorders",
+        "communication sciences and disorders",
+        "neurogenic communication disorders"
+      ],
+      "Occupational Therapy": [
+        "occupational therapy"
+      ],
+      "Audiology": [
+        "pediatric audiology"
+      ],
+      "Communication Disorders": [
+        "communication disorders"
+      ]
+    },
+    "Respiratory & Emergency Care": [
+      "respiratory nursing",
+      "respiratory therapy",
+      "prehospital emergency care (paramedicine)"
+    ],
+    "Social & Behavioral": [
+      "social work",
+      "social work education",
+      "behavioral medicine",
+      "behavioral science",
+      "health coaching",
+      "mental health counseling",
+      "behavioral psychology",
+      "care navigation",
+      "caregiving",
+      "family caregiving",
+      "caregiver education",
+      "caregiver support",
+      "caregiver burden"
+    ]
+  },
+  "Health Systems, Informatics & Education": {
+    "Health Informatics & Digital": [
+      "ambient scribing",
+      "artificial intelligence in medicine",
+      "biomedical imaging",
+      "biomedical informatics",
+      "biomedical information retrieval",
+      "biomedical NLP",
+      "clinical communication",
+      "clinical informatics",
+      "clinical informatics/NLP",
+      "clinical natural language processing",
+      "clinical natural language processing (NLP)",
+      "clinical NLP",
+      "clinical research informatics",
+      "consumer health informatics",
+      "digital behavioral health",
+      "digital health",
+      "digital health interventions",
+      "digital health/mHealth",
+      "digital health/telemedicine",
+      "digital pathology",
+      "digital phenotyping",
+      "digital public health surveillance",
+      "EHR integration",
+      "EHR messaging",
+      "EHR workflow",
+      "forensic image analysis",
+      "hallucinations/factuality",
+      "health informatics",
+      "health information",
+      "health information management",
+      "health information management",
+      "health information management (medical coding)",
+      "health information quality",
+      "health information technology",
+      "health information/library services",
+      "healthcare chatbots",
+      "human-AI interaction",
+      "human-computer interaction",
+      "language translation",
+      "medical AI",
+      "medical AI evaluation",
+      "medical AI security",
+      "medical imaging workflow",
+      "medical informatics",
+      "medical information quality assessment",
+      "medical NLP",
+      "medical translation",
+      "medical translation/interpretation",
+      "medical translation/localization",
+      "mHealth",
+      "orthopedic information retrieval",
+      "patient portal messaging",
+      "pharmacy informatics",
+      "probability calibration",
+      "radiology informatics",
+      "speech recognition",
+      "telemedicine",
+      "telemedicine / remote patient monitoring",
+      "telemedicine/digital health",
+      "telemedicine/online health communities"
+    ],
+    "Quality, Safety & Policy": [
+      "patient safety",
+      "quality and safety",
+      "quality assurance",
+      "healthcare quality",
+      "healthcare management",
+      "healthcare administration",
+      "health policy/insurance",
+      "bias/fairness",
+      "health equity",
+      "health equity / LGBTQIA+ health",
+      "social determinants of health",
+      "ethics",
+      "medical ethics",
+      "bioethics",
+      "health equity/health disparities",
+      "health equity/disparities",
+      "health equity/bias",
+      "quality improvement",
+      "risk management",
+      "AI fairness",
+      "bias and fairness",
+      "algorithmic fairness",
+      "privacy",
+      "privacy-preserving analytics",
+      "privacy-preserving ML",
+      "privacy-preserving machine learning",
+      "AI safety",
+      "AI safety/security",
+      "AI safety/validation",
+      "privacy and security",
+      "cybersecurity",
+      "workflow efficiency/burnout"
+    ],
+    "Education & Simulation": [
+      "academic writing",
+      "anatomical sciences education",
+      "assessment and examinations",
+      "assessment/exam performance",
+      "assessment/exams",
+      "assessment/licensing exams",
+      "attitude, ethics, and communication (AETCOM)",
+      "bedside teaching",
+      "board certification exam preparation",
+      "board exam",
+      "board exam preparation",
+      "board examination",
+      "case-based learning",
+      "client communication/education",
+      "clinical clerkship education",
+      "clinical reasoning",
+      "clinical reasoning education",
+      "clinical skills",
+      "clinical skills assessment",
+      "clinical skills assessment/OSCE",
+      "continuing medical education",
+      "counselor education",
+      "curriculum design",
+      "debriefing",
+      "education",
+      "educational technology",
+      "empathy training",
+      "entrance examination",
+      "exam performance",
+      "exam preparation",
+      "forensic interviewing",
+      "graduate medical education",
+      "health informatics education",
+      "health professions education",
+      "immunology education",
+      "intensive care medical education",
+      "licensing exam",
+      "licensing exam assessment",
+      "licensing exam preparation",
+      "licensing examination",
+      "licensing examinations",
+      "licensing exams",
+      "licensure exam",
+      "licensure examination",
+      "licensure examinations",
+      "licensure exams",
+      "licensure/revalidation exam",
+      "maintenance of certification",
+      "medical education",
+      "medical education",
+      "medical education (USMLE)",
+      "medical education assessment",
+      "medical education/patient education",
+      "medical licensing",
+      "medical licensing exam preparation",
+      "medical licensing examination",
+      "medical licensing examinations",
+      "medical licensing exams",
+      "medical licensure",
+      "medical simulation",
+      "medical writing",
+      "medical/dental education",
+      "medical/patient education",
+      "mentoring/coaching",
+      "non-technical skills",
+      "nurse practitioner education",
+      "OSCE",
+      "OSCE assessment",
+      "patient communication/education",
+      "patient education / consumer health information",
+      "patient education/counseling",
+      "patient education/health misinformation",
+      "patient education/informed consent",
+      "patient education/medical advice",
+      "patient-reported outcomes",
+      "patient/family education",
+      "physical therapy education",
+      "preclinical",
+      "preclinical education",
+      "preclinical management",
+      "preclinical research",
+      "preclinical/basic science",
+      "preclinical/basic sciences",
+      "premedical education",
+      "premedical/NEET",
+      "problem-based learning",
+      "procedural skills training",
+      "professionalism",
+      "progress testing",
+      "reflective practice",
+      "research methods education",
+      "residency admissions",
+      "residency admissions (MIR)",
+      "residency education",
+      "residency exam",
+      "residency exams",
+      "residency selection/interview",
+      "residency training",
+      "resident education",
+      "sexual health education",
+      "simulation",
+      "simulation training",
+      "simulation-based education",
+      "simulation-based training",
+      "simulation/standardized patients",
+      "standardized exam (USMLE)",
+      "standardized exams (MIR)",
+      "standardized patient training",
+      "standardized testing",
+      "surgical education",
+      "team-based learning",
+      "undergraduate education",
+      "undergraduate medical education",
+      "USMLE",
+      "USMLE assessment",
+      "USMLE preparation",
+      "USMLE Step 1",
+      "virtual patient simulation",
+      "virtual patients"
+    ],
+    "Data Science & Biostatistics": [
+      "biostatistics",
+      "clinical trial methodology",
+      "clinical trials",
+      "clinical trials recruitment",
+      "systematic review methodology",
+      "evidence-based medicine",
+      "evidence-based dentistry",
+      "research ethics",
+      "research integrity",
+      "AI ethics",
+      "machine learning",
+      "natural language processing",
+      "clinical NLP",
+      "bioinformatics",
+      "clinical informatics",
+      "phenotype validation",
+      "drug repurposing",
+      "predictive modeling",
+      "predictive analytics",
+      "outcomes prediction",
+      "readmission prediction",
+      "readmission risk prediction",
+      "clinical prediction modeling",
+      "clinical prediction",
+      "phenotyping",
+      "uncertainty quantification",
+      "question answering",
+      "medical question answering",
+      "medical visual question answering",
+      "literature-based validation",
+      "knowledge synthesis",
+      "information retrieval",
+      "information retrieval (RAG/knowledge graphs)",
+      "knowledge graph construction",
+      "knowledge graphs",
+      "knowledge graph reasoning",
+      "text summarization",
+      "time series forecasting",
+      "variant prioritization",
+      "natural language generation",
+      "retrieval-augmented generation",
+      "conversational agents",
+      "clinical genomics",
+      "computational biology",
+      "computational phenotyping",
+      "clinical trial recruitment",
+      "clinical trial operations",
+      "clinical trial management",
+      "clinical trial matching",
+      "clinical research"
+    ],
+    "Administration & Operations": [
+      "billing and coding",
+      "medical billing",
+      "medical billing/coding",
+      "medical coding",
+      "clinical coding",
+      "medical documentation",
+      "clinical documentation",
+      "medical decision-making",
+      "clinical decision support",
+      "clinical decision-making",
+      "clinical decision support",
+      "medical guideline evaluation",
+      "medical communication",
+      "patient-provider communication",
+      "patient communication",
+      "patient communication/translation",
+      "communication skills",
+      "communication skills training",
+      "health systems",
+      "clinical trial management",
+      "clinical trial matching",
+      "clinical research",
+      "medical librarianship",
+      "patient relations",
+      "medical communication / patient education",
+      "patient experience",
+      "hospital operations",
+      "practice management/administration",
+      "utilization management/insurance appeals",
+      "care transitions",
+      "discharge planning",
+      "care transitions/handoffs",
+      "handoff/communication",
+      "care navigation",
+      "patient navigation/wayfinding"
+    ]
+  },
+  "Complementary & Integrative Medicine": {
+    "Traditional & Complementary": [
+      "acupuncture",
+      "herbal medicine",
+      "traditional Chinese medicine",
+      "traditional chinese medicine",
+      "complementary and alternative medicine",
+      "complementary and integrative medicine",
+      "complementary and alternative medicine (CAM)",
+      "Chinese herbal medicine",
+      "Chinese patent medicine",
+      "traditional Korean medicine",
+      "Korean Medicine",
+      "TCM oncology",
+      "TCM diagnostics"
+    ],
+    "Lifestyle & Integrative": [
+      "integrative medicine",
+      "integrative oncology",
+      "lifestyle medicine",
+      "dietary supplements",
+      "obesity management"
+    ]
+  },
+  "Basic & Translational Sciences & Research": {
+    "Basic Medical Sciences": [
+      "anatomy",
+      "anatomy education",
+      "anatomy/histology",
+      "embryology",
+      "physiology",
+      "biochemistry",
+      "biomedical sciences",
+      "basic medical science",
+      "basic sciences",
+      "basic and general orthopedics",
+      "gross anatomy",
+      "anatomy/embryology",
+      "histology",
+      "histology and embryology",
+      "histology education",
+      "preclinical/basic sciences",
+      "preclinical basic sciences"
+    ],
+    "Molecular & Cellular": [
+      "molecular biology",
+      "molecular diagnostics",
+      "molecular oncology",
+      "genomics",
+      "immunology",
+      "neuroimmunology",
+      "pathomorphology",
+      "medical genetics",
+      "genetics",
+      "regenerative medicine",
+      "syndrome differentiation",
+      "programmed cell death",
+      "molecular genetics",
+      "clinical genetics",
+      "medical genetics/genomics",
+      "genetics/genomics",
+      "metabolic genetics",
+      "clinical genetics/dysmorphology",
+      "dysmorphology",
+      "transcriptomics",
+      "proteomics",
+      "cell imaging",
+      "biopathology"
+    ],
+    "Bioinformatics & Computational": [
+      "bioinformatics",
+      "computational pathology",
+      "clinical natural language processing",
+      "machine learning",
+      "medical imaging analysis",
+      "computational psychiatry",
+      "computational oncology",
+      "computational drug discovery"
+    ],
+    "Laboratory & Experimental": [
+      "microbiology",
+      "parasitology",
+      "virology",
+      "mycology",
+      "cell culture (implicit)",
+      "bacteriology",
+      "medical mycology",
+      "microbial pathogenesis"
+    ],
+    "Biomedical Research": [
+      "biomedical research"
+    ],
+    "Medical Science": [
+      "medical science/general knowledge",
+      "clinical medical sciences"
+    ],
+    "Systems Biology": [
+      "systems biology"
+    ]
+  },
+  "Urologic & Genitourinary Surgery": {
+    "Benign & Functional": [
+      "female urology",
+      "benign prostatic hyperplasia",
+      "benign prostatic hyperplasia (BPH)/benign prostate enlargement (BPE)"
+    ],
+    "Oncology": [
+      "genitourinary oncology",
+      "genitourinary"
+    ],
+    "Endourology": [
+      "endourology",
+      "endourology/urolithiasis"
+    ]
+  },
+  "Nephrology & Genitourinary (Medical)": {
+    "Stones & Electrolyte": [
+      "benign prostatic hyperplasia"
+    ]
+  },
+  "Veterinary Medicine": {
+    "General": [
+      "veterinary medicine"
+    ],
+    "Ophthalmology": [
+      "veterinary ophthalmology"
+    ],
+    "Neurology": [
+      "veterinary neurology"
+    ],
+    "Education": [
+      "veterinary education"
+    ]
+  },
+  "Transplant Medicine": {
+    "General": [
+      "transplant medicine",
+      "transplantation",
+      "transplant hepatology"
+    ]
+  },
+  "Clinical Psychology": {
+    "General": [
+      "clinical psychology",
+      "counseling psychology",
+      "clinical psychology/psychotherapy"
+    ]
+  },
+  "Genetics": {
+    "General": [
+      "genetic counseling",
+      "prenatal genetics",
+      "variant interpretation"
+    ]
+  },
+  "Forensic Sciences": {
+    "General": [
+      "forensic science",
+      "forensic education"
+    ]
+  },
+  "Geriatrics & Cognitive": {
+    "Geriatrics": [
+      "long-term care",
+      "frailty assessment"
+    ]
+  },
+  "General / Multisystem": {
+    "Internal Medicine": {
+      "Uncategorized": [
+        "actinic keratosis",
+        "admissions testing",
+        "adolescent gynecology",
+        "adult spinal deformity",
+        "aerospace medicine",
+        "aging research",
+        "allergology",
+        "anaesthesiology",
+        "appropriateness criteria adherence",
+        "appropriateness guidelines",
+        "Arabic language processing",
+        "asthma",
+        "basic medical sciences",
+        "behavioral sleep medicine",
+        "biomarkers",
+        "biomechanics",
+        "biomedicine",
+        "Black women's health",
+        "blockchain in healthcare",
+        "brain-computer interfaces",
+        "breastfeeding support",
+        "cancer genetics",
+        "cancer genomics",
+        "cardiac arrest",
+        "caregiver training",
+        "cartilage repair",
+        "CBC interpretation",
+        "chemosensory disorders",
+        "chronic disease management",
+        "clinical densitometry",
+        "clinical dietetics",
+        "clinical documentation review",
+        "clinical ethics",
+        "clinical guideline methodology",
+        "clinical guidelines",
+        "clinical medicine",
+        "clinical optics",
+        "clinical practice guidelines",
+        "clinical reasoning/diagnostics",
+        "cognitive bias mitigation",
+        "cognitive science",
+        "colposcopy",
+        "community health",
+        "congenital malformations",
+        "cornea and refractive surgery",
+        "coronary artery disease",
+        "counseling",
+        "CTA interpretation",
+        "cultural competency",
+        "cytogenetics",
+        "decision support",
+        "delirium",
+        "dementia/Alzheimer\u2019s disease",
+        "dental anesthesia",
+        "developmental-behavioral pediatrics",
+        "diabetic foot care",
+        "diabetic foot ulcer care",
+        "diabetic retinopathy screening",
+        "differential diagnosis",
+        "digestive system diseases",
+        "digital health/patient self-management",
+        "discourse analysis",
+        "domestic violence",
+        "drug discovery",
+        "drug interactions",
+        "dysphagia management",
+        "eating disorders",
+        "ecological momentary assessment",
+        "EHR modeling",
+        "envenomation management",
+        "esthetic dentistry",
+        "evidence-based practice",
+        "exercise prescription",
+        "fertility counseling",
+        "gender-affirming care",
+        "general practice",
+        "genetic variant interpretation",
+        "geriatric anesthesia",
+        "guideline updates",
+        "gynecologic cytology",
+        "hair transplantation",
+        "hand and upper extremity",
+        "health misinformation",
+        "healthcare informatics",
+        "healthcare operations",
+        "Helicobacter pylori",
+        "history-taking",
+        "history-taking/anamnesis",
+        "HIV prevention",
+        "home care",
+        "home health care",
+        "human factors",
+        "hypoglossal nerve stimulation",
+        "hypothermia",
+        "image-guided surgery",
+        "impression generation",
+        "injury prevention",
+        "irAE management",
+        "judgment and decision making",
+        "labor analgesia",
+        "laboratory test interpretation",
+        "language pragmatics",
+        "legal medicine",
+        "LGBTQ+ health",
+        "LGBTQIA+ health",
+        "licensure exam preparation",
+        "low vision rehabilitation",
+        "lower extremity",
+        "lung auscultation",
+        "male infertility",
+        "management reasoning",
+        "maternal health",
+        "medical arthropodology",
+        "medical audio analysis",
+        "medical biochemistry",
+        "medical decision making",
+        "medical laboratory genetics",
+        "medical microbiology",
+        "medical publishing",
+        "medical robotics",
+        "medical text simplification",
+        "medicinal chemistry",
+        "medico-legal",
+        "medicolegal",
+        "men's health",
+        "menstrual health",
+        "military medicine",
+        "mindfulness",
+        "mortality risk stratification",
+        "MRONJ",
+        "multidisciplinary tumor board",
+        "multidisciplinary tumor board decision-making",
+        "multilingual assessment",
+        "multispecialty ambulatory care",
+        "musculoskeletal anatomy",
+        "neuromodulation",
+        "neurorehabilitation",
+        "neurotology/otology",
+        "obstetric nursing",
+        "obstetrics/gynecology",
+        "ocular trauma",
+        "odontogenic sinusitis",
+        "olfaction",
+        "olfactory disorders",
+        "oncology (cancer cachexia)",
+        "oral board examination",
+        "oral implantology",
+        "ostomy/stoma care",
+        "OTC drugs",
+        "Other",
+        "otorhinolaryngology (ENT)",
+        "pain assessment",
+        "pathology/laboratory medicine",
+        "patient blood management",
+        "patient follow-up",
+        "patient recruitment",
+        "patient support",
+        "pelvic and acetabular surgery",
+        "pelvic floor therapy",
+        "pelvic pain syndromes",
+        "physician recommendation",
+        "physiotherapy/physical therapy",
+        "placebo analgesia",
+        "podiatric surgery",
+        "podiatry",
+        "poison control",
+        "post-abortion care",
+        "posture analysis",
+        "preoperative anesthesia planning",
+        "preoperative assessment",
+        "preoperative evaluation",
+        "preoperative risk prediction",
+        "professional development",
+        "prostatitis",
+        "psychoanalysis",
+        "psycholinguistics",
+        "psychotic disorders",
+        "pulmonary function testing",
+        "radiologic technology",
+        "radiological anatomy",
+        "renal cell carcinoma",
+        "renal nutrition",
+        "risk assessment",
+        "risk stratification",
+        "rural health",
+        "salivary gland disorders",
+        "sarcoidosis",
+        "scar assessment",
+        "scientific publishing",
+        "self-care",
+        "senology",
+        "serious games",
+        "sex/gender medicine",
+        "sialendoscopy",
+        "skeletal biology",
+        "skeletal dysplasia",
+        "sleep surgery",
+        "socially assistive robotics",
+        "surgical anatomy",
+        "surgical decision support",
+        "surgical nursing",
+        "surgical video analysis",
+        "symptom management",
+        "telehealth",
+        "telemedicine/remote care",
+        "telemedicine/remote patient monitoring",
+        "temporomandibular disorders (TMD)",
+        "temporomandibular joint disorders",
+        "teratology",
+        "therapeutics",
+        "thoracic",
+        "thoracic anatomy",
+        "tinnitus",
+        "tracheostomy care",
+        "transgender medicine",
+        "trauma/PTSD",
+        "trichology",
+        "tumor biomarkers",
+        "tumor board",
+        "tumor board decision support",
+        "upper extremity reconstructive surgery",
+        "urethritis",
+        "urinalysis",
+        "urinary system",
+        "usability",
+        "usability testing",
+        "usability/human factors",
+        "user interface design",
+        "vaping cessation",
+        "vascular",
+        "virtual reality",
+        "wearable technology",
+        "wearables",
+        "women's health",
+        "wound ballistics"
+      ]
+    }
+  }
+}

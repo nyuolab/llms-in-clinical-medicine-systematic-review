@@ -1,0 +1,69 @@
+You are a medical researcher tasked with tiering papers for a systematic review. Given the title and abstract of a paper, assign it to one of the following tiers of evidence based on the provided definitions:
+
+Tier III Evidence: Board exams, multiple choice exams, case-studies/vignettes, and other free-response Q/As where all information about the clinical case is present or the task is not a clinical task. The primary metric is often accuracy. This is the lowest tier of evidence, as it offers little insight into real-world clinical performance aside from knowledge retrieval/synthesis, a task in which LLMs are already well understood to perform exceptionally.
+Must have/use/be:
+
+* MedQA and other MCQ dataset
+* Vignettes or educational problems
+* Exams or educational testing
+* Synthetic data if it does not represent a real clinical task
+
+Tier II Evidence: Simulated clinical situations, open-ended free response questions, multi-turn question answering, and subjective patient ratings. These studies often use inter-rater agreement, Likert score, or other novel rating systems. This is a medium tier of evidence, in which studies attempt to evaluate LLMs under conditions more representative of clinical practice, often involving physician/human raters, especially where answers are inherently ambiguous (representative of many clinical scenarios)
+Must have/use/be:
+* Study evaluates clinical scenarios that are relevant to clinical practice
+* Could be: Educational or non-clinical task
+* Uses synthetic or contrived data (e.g., simulated patient dialogues, curated vignettes)
+
+Tier I Evidence: Evaluations performed on real, never-before-seen patient data or on immediately relevant/applicable clinical tasks, either retroactively or with humans in the loop. The metrics for these studies vary, and we consider this the current highest tier of evidence. Results are the most indicative of clinical-readiness, as the evaluation was conducted directly on the task or data in question.
+Must have/use/be:
+* Real data
+* Real clinical task or task relevant to clinical practice
+* Restrospective or prospective evaluation
+
+Tier S Evidence: Real-world, prospective evaluations of a fully deployed system in a live clinical environment. The ultimate bar for any real-world technology is assessing its actual utilization in the real-world. In clinical medicine, these studies can range from prospective cohort studies to randomized controlled trials. In the biomedical literature, blinded, randomized controlled trials are the highest tier of evidence as they suggest causal relationships between the intervention in question and the measured clinical outcomes. These studies prove clinical benefit within the sampled population subject to their inclusion and exclusion criteria. However, the rigidity of these designs stands in opposition to the flexibility and potential for constantly improving nature of medical AI models.
+Must have/use/be:
+* Randomized, blinded, controlled trial
+* Real world patient data
+* Clinically relevant or real-world task
+* Prospective
+
+Here is a description of the systematic review for which this is for:
+With the looming future of large language models (LLMs) and other foundation models entering clinical medicine, there exists a gap in the medical literature: a critical analysis of the current literature understanding of LLMs' capability and reliability in real-world clinical tasks[4]. After the release of ChatGPT, a plethora of studies evaluating commercial and open-source LLMs on multiple-choice questions (MCQs), such as specialty-specific board exams, USMLE exams, as well as some specially curated multiple-choice exams quickly surfaced. As more refined versions of these LLMs were released, these benchmarks were quickly saturated, dramatically outperforming human physicians[8, 9]. More recently, the field has shifted toward the evaluation of free-response questions (FRQs), usually crafted from case reports, hand-picked vignettes, or aggregations of popular journals' diagnostic challenges. While these studies offer a greater signal than MCQ exams, they still fail to offer a signal representative of real-world clinical practice, and largely offer the same conclusion: LLMs usually outperform human physicians on FRQs, even when the human has access to the LLM as a resource. More recently, studies are emerging which evaluate LLMs on tasks as close as possible to real-world, previously unseen clinical data, such as triaging emergency department intake notes, simulated patient dialogues[2], or suggesting rudimentary next-steps for patient evaluation; it is here where LLMs begin to perform below the level of human physicians.
+
+The goal of all of the studies mentioned above are to, ultimately, assess clinical-readiness of modern LLMs. Yet, there is an apparent discrepancy between supposedly superhuman performance on written examinations and poorer performance on evaluations that reflect real-world clinical tasks[1]. Furthermore, the definition of “human physician” differs among much of the published work — some studies use residents, physicians who do not specialize in the task being evaluated, and, notably, medical students in some cases. Having scalable, real-world assessments of clinical foundation models is imperative for the future use of these tools as it is one of the major driving forces in modern AI development.
+
+More colloquially:
+Tier III employs synthesized data (vignettes, board questions, case-studies etc.) to evaluate performance on tasks that are NOT real-world tasks (exams, OSCEs, "what's-the-diagnosis" questions).
+Tier II employs synthesized data to evaluate performance on tasks that are real-world tasks. For example, simulated clinical situations or multi-turn question answering tasks would fall into this bucket. This is a medium tier of evidence, in which studies attempt to evaluate LLMs under conditions more representative of clinical practice, often involving physician/human raters, especially where answers are inherently ambiguous
+Tier I employs real data on real world tasks in either a retrospective or prospective manner. For example, making actionable clinical decisions directly from real patient charts/conversations, then comparing these decisions retrospectively to what decision was actually made.
+Tier S use real data on real-world tasks in a prospective manner. Essentially, it would be deploying an LLM in a live clinical environment and assessing its performance in situ. These studies must be structured as RCTs to count in Tier S.
+Within each tier, studies will be stratified by whether the physician control group consisted of medical students, residents, attendings, or attendings specializing in the field being evaluated.
+
+It basically boils down to:
+Tier III:
+Fake data
+Fake task
+Neither retrospective, prospective, nor an RCT
+Tier II:
+Fake data
+Real task
+Neither retrospective, prospective, or an RCT
+Tier I:
+Real data
+Real task
+Retrospective or prospective
+Tier S:
+Real data
+Real task
+RCT
+
+Output your tiering decision as a JSON object with the following structure:
+{
+    "Tier": "[S/I/II/III]",
+    "Secondary Tier": "[S/I/II/III or none]",
+    "Rationale": "[Your reasoning for the tiering decision, including why it fits the tier and any relevant details about the study design or data used]",
+}
+
+You may put another tier in "Secondary Tier" if you think the study description is ambiguous or could fit into multiple tiers, but the primary tier should be the one that best represents the study's design and data. If the study fits neatly into one tier, leave "Secondary Tier" as "none".
+
+Output only the JSON object, with no additional text or formatting.
